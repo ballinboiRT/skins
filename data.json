@@ -1,1 +1,169 @@
-{}
+{
+  "updated": "May 01, 2026 at 02:07 PM",
+  "people": [
+    {
+      "name": "Jared",
+      "teams": [
+        {
+          "team": "Rockies",
+          "stat": "Losses",
+          "value": 18
+        },
+        {
+          "team": "Cubs",
+          "stat": "Wins",
+          "value": 19
+        },
+        {
+          "team": "Twins",
+          "stat": "Losses",
+          "value": 18
+        },
+        {
+          "team": "Tigers",
+          "stat": "Wins",
+          "value": 16
+        },
+        {
+          "team": "Red Sox",
+          "stat": "Wins",
+          "value": 12
+        },
+        {
+          "team": "Brewers",
+          "stat": "Wins",
+          "value": 16
+        },
+        {
+          "team": "Padres",
+          "stat": "Wins",
+          "value": 19
+        }
+      ],
+      "total": 118
+    },
+    {
+      "name": "Bogo",
+      "teams": [
+        {
+          "team": "Dodgers",
+          "stat": "Wins",
+          "value": 20
+        },
+        {
+          "team": "Yankees",
+          "stat": "Wins",
+          "value": 20
+        },
+        {
+          "team": "Phillies",
+          "stat": "Wins",
+          "value": 12
+        },
+        {
+          "team": "Athletics",
+          "stat": "Losses",
+          "value": 14
+        },
+        {
+          "team": "Blue Jays",
+          "stat": "Wins",
+          "value": 14
+        },
+        {
+          "team": "Orioles",
+          "stat": "Wins",
+          "value": 15
+        },
+        {
+          "team": "Rangers",
+          "stat": "Wins",
+          "value": 15
+        }
+      ],
+      "total": 110
+    },
+    {
+      "name": "RT",
+      "teams": [
+        {
+          "team": "Nationals",
+          "stat": "Losses",
+          "value": 17
+        },
+        {
+          "team": "Angels",
+          "stat": "Losses",
+          "value": 20
+        },
+        {
+          "team": "Marlins",
+          "stat": "Losses",
+          "value": 16
+        },
+        {
+          "team": "Rays",
+          "stat": "Losses",
+          "value": 12
+        },
+        {
+          "team": "Pirates",
+          "stat": "Losses",
+          "value": 16
+        },
+        {
+          "team": "Astros",
+          "stat": "Wins",
+          "value": 12
+        },
+        {
+          "team": "Guardians",
+          "stat": "Wins",
+          "value": 16
+        }
+      ],
+      "total": 109
+    },
+    {
+      "name": "Nuney",
+      "teams": [
+        {
+          "team": "White Sox",
+          "stat": "Losses",
+          "value": 17
+        },
+        {
+          "team": "Cardinals",
+          "stat": "Losses",
+          "value": 13
+        },
+        {
+          "team": "Mets",
+          "stat": "Wins",
+          "value": 10
+        },
+        {
+          "team": "Mariners",
+          "stat": "Wins",
+          "value": 16
+        },
+        {
+          "team": "Braves",
+          "stat": "Wins",
+          "value": 22
+        },
+        {
+          "team": "D-backs",
+          "stat": "Losses",
+          "value": 14
+        },
+        {
+          "team": "Giants",
+          "stat": "Wins",
+          "value": 13
+        }
+      ],
+      "total": 105
+    }
+  ]
+}
