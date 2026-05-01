@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MLB Skins 2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg: #0a0e13;
+      --surface: #111720;
+      --border: #1e2a38;
+      --accent: #c8f000;
+      --accent2: #00c8f0;
+      --text: #e8edf2;
+      --muted: #4a5a6a;
+      --win: #c8f000;
+      --loss: #f05060;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+      padding: 0 0 60px;
+      overflow-x: hidden;
+    }
+    header {
+      position: relative;
+      padding: 48px 32px 36px;
+      border-bottom: 1px solid var(--border);
+      overflow: hidden;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      top: -60px; left: -60px;
+      width: 320px; height: 320px;
+      background: radial-gradient(circle, rgba(200,240,0,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    header::after {
+      content: '';
+      position: absolute;
+      bottom: -80px; right: -40px;
+      width: 280px; height: 280px;
+      background: radial-gradient(circle, rgba(0,200,240,0.08) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .header-inner {
+      max-width: 1000px;
+      margin: 0 auto;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    h1 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(48px, 8vw, 88px);
+      letter-spacing: 2px;
+      line-height: 0.9;
+      color: var(--text);
+    }
+    h1 span { color: var(--accent); }
+    .meta {
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      color: var(--muted);
+      text-align: right;
+      line-height: 1.8;
+    }
+    .meta strong { color: var(--accent2); }
+    main {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 40px 24px 0;
+    }
+    .section-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+    .leaderboard {
+      display: grid;
+      gap: 10px;
+      margin-bottom: 52px;
+    }
+    .lb-row {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 16px 20px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+    .lb-row:hover { border-color: var(--accent); }
+    .lb-row.rank-1 { border-color: var(--accent); }
+    .lb-row.rank-1::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      background: var(--accent);
+    }
+    .lb-rank {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 28px;
+      color: var(--muted);
+      width: 32px;
+      flex-shrink: 0;
+    }
+    .lb-row.rank-1 .lb-rank { color: var(--accent); }
+    .lb-name {
+      font-size: 18px;
+      font-weight: 700;
+      flex: 1;
+      letter-spacing: 0.5px;
+    }
+    .lb-bar-wrap {
+      flex: 2;
+      height: 6px;
+      background: var(--border);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .lb-bar {
+      height: 100%;
+      border-radius: 3px;
+      background: var(--accent);
+      transition: width 1s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .lb-row.rank-2 .lb-bar { background: var(--accent2); }
+    .lb-row.rank-3 .lb-bar { background: #f0a000; }
+    .lb-row.rank-4 .lb-bar { background: var(--muted); }
+    .lb-score {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 32px;
+      letter-spacing: 1px;
+      width: 52px;
+      text-align: right;
+      flex-shrink: 0;
+    }
+    .lb-row.rank-1 .lb-score { color: var(--accent); }
+    .breakdowns {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+      background: rgba(255,255,255,0.02);
+    }
+    .card-name {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 22px;
+      letter-spacing: 1px;
+    }
+    .card-total {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 28px;
+      color: var(--accent);
+    }
+    table { width: 100%; border-collapse: collapse; }
+    th {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 10px 20px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    th:last-child { text-align: right; }
+    td {
+      padding: 10px 20px;
+      font-size: 14px;
+      border-bottom: 1px solid rgba(30,42,56,0.5);
+    }
+    tr:last-child td { border-bottom: none; }
+    td:last-child {
+      text-align: right;
+      font-family: 'DM Mono', monospace;
+      font-weight: 500;
+    }
+    .pill {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 2px;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .pill-win  { background: rgba(200,240,0,0.12); color: var(--win); }
+    .pill-loss { background: rgba(240,80,96,0.12); color: var(--loss); }
+    footer {
+      text-align: center;
+      padding-top: 48px;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .loading {
+      text-align: center;
+      padding: 60px 20px;
+      font-family: 'DM Mono', monospace;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    @media (max-width: 600px) {
+      .breakdowns { grid-template-columns: 1fr; }
+      .lb-bar-wrap { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>MLB<br/><span>Skins</span><br/>2026</h1>
+    <div class="meta">
+      <strong id="last-updated">Loading...</strong><br/>
+      Regular Season
+    </div>
+  </div>
+</header>
+
+<main>
+  <div id="loading" class="loading">Fetching standings...</div>
+
+  <div id="content" style="display:none">
+    <div class="section-label">Leaderboard</div>
+    <div class="leaderboard" id="leaderboard"></div>
+    <div class="section-label">Full Breakdown</div>
+    <div class="breakdowns" id="breakdowns"></div>
+  </div>
+</main>
+
+<footer>
+  Data via MLB Stats API &nbsp;·&nbsp; ballinboiRT/skins
+</footer>
+
+<script>
+  fetch('data.json?nocache=' + Date.now())
+    .then(r => r.json())
+    .then(DATA => {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = 'block';
+      document.getElementById('last-updated').textContent = 'Updated ' + DATA.updated;
+
+      const sorted = [...DATA.people].sort((a, b) => b.total - a.total);
+      const maxScore = sorted[0].total;
+
+      // Leaderboard
+      const lb = document.getElementById('leaderboard');
+      sorted.forEach((p, i) => {
+        const pct = maxScore > 0 ? (p.total / maxScore * 100) : 0;
+        lb.innerHTML += `
+          <div class="lb-row rank-${i+1}">
+            <div class="lb-rank">${i+1}</div>
+            <div class="lb-name">${p.name}</div>
+            <div class="lb-bar-wrap"><div class="lb-bar" style="width:${pct}%"></div></div>
+            <div class="lb-score">${p.total}</div>
+          </div>`;
+      });
+
+      // Breakdowns
+      const bd = document.getElementById('breakdowns');
+      sorted.forEach(p => {
+        const rows = p.teams.map(t => `
+          <tr>
+            <td>${t.team}</td>
+            <td><span class="pill pill-${t.stat === 'Wins' ? 'win' : 'loss'}">${t.stat}</span></td>
+            <td>${t.value}</td>
+          </tr>`).join('');
+        bd.innerHTML += `
+          <div class="card">
+            <div class="card-header">
+              <div class="card-name">${p.name}</div>
+              <div class="card-total">${p.total}</div>
+            </div>
+            <table>
+              <thead><tr><th>Team</th><th>Stat</th><th>Count</th></tr></thead>
+              <tbody>${rows}</tbody>
+            </table>
+          </div>`;
+      });
+    })
+    .catch(() => {
+      document.getElementById('loading').textContent = 'Error loading data. Please try again later.';
+    });
+</script>
+</body>
+</html>
+
+#!/usr/bin/env python3
+"""
+MLB Skins 2026 — Daily Updater for Vercel
+Fetches MLB standings, writes data.json, and pushes to GitHub.
+Vercel auto-deploys whenever GitHub is updated.
+
+Setup (one-time):
+  1. Install Git: https://git-scm.com
+  2. In Terminal:
+       cd ~/Documents
+       git clone https://github.com/ballinboiRT/skins.git
+  3. Move this script into ~/Documents/skins/
+  4. Run once to test:
+       cd ~/Documents/skins
+       python3 MLB_Skins_2026-27.py
+
+Schedule daily at 8am (Mac):
+  Run: crontab -e
+  Press i and paste (replace YOUR_USERNAME with your Mac username from: whoami):
+  0 8 * * * /Library/Frameworks/Python.framework/Versions/3.14/bin/python3 /Users/YOUR_USERNAME/Documents/skins/MLB_Skins_2026-27.py >> /Users/YOUR_USERNAME/Documents/skins/mlb_log.txt 2>&1
+  Press Escape, type :wq, hit Enter
+"""
+
+import urllib.request
+import json
+import ssl
+import os
+import subprocess
+from datetime import datetime
+
+# ── People Configuration ───────────────────────────────────────────────────────
+PEOPLE = {
+    "Jared": [
+        ("Rockies",  "losses"),
+        ("Cubs",     "wins"),
+        ("Twins",    "losses"),
+        ("Tigers",   "wins"),
+        ("Red Sox",  "wins"),
+        ("Brewers",  "wins"),
+        ("Padres",   "wins"),
+    ],
+    "Bogo": [
+        ("Dodgers",   "wins"),
+        ("Yankees",   "wins"),
+        ("Phillies",  "wins"),
+        ("Athletics", "losses"),
+        ("Blue Jays", "wins"),
+        ("Orioles",   "wins"),
+        ("Rangers",   "wins"),
+    ],
+    "RT": [
+        ("Nationals", "losses"),
+        ("Angels",    "losses"),
+        ("Marlins",   "losses"),
+        ("Rays",      "losses"),
+        ("Pirates",   "losses"),
+        ("Astros",    "wins"),
+        ("Guardians", "wins"),
+    ],
+    "Nuney": [
+        ("White Sox",  "losses"),
+        ("Cardinals",  "losses"),
+        ("Mets",       "wins"),
+        ("Mariners",   "wins"),
+        ("Braves",     "wins"),
+        ("D-backs",    "losses"),
+        ("Giants",     "wins"),
+    ],
+}
+
+STANDINGS_URL = (
+    "https://statsapi.mlb.com/api/v1/standings"
+    "?leagueId=103,104"
+    "&season={year}"
+    "&standingsTypes=regularSeason"
+    "&fields=records,teamRecords,team,name,wins,losses"
+)
+
+# Path to your cloned repo — update YOUR_USERNAME to your Mac username
+REPO_DIR = os.path.join(os.path.expanduser("~"), "Documents", "skins")
+DATA_PATH = os.path.join(REPO_DIR, "data.json")
+# ──────────────────────────────────────────────────────────────────────────────
+
+
+def fetch_standings(year):
+    url = STANDINGS_URL.format(year=year)
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    with urllib.request.urlopen(url, timeout=10, context=ctx) as resp:
+        data = json.loads(resp.read())
+    teams = []
+    for division in data.get("records", []):
+        for record in division.get("teamRecords", []):
+            teams.append({
+                "name":   record["team"]["name"],
+                "wins":   record["wins"],
+                "losses": record["losses"],
+            })
+    return teams
+
+
+def calculate_all(all_teams):
+    results = []
+    for person, team_list in PEOPLE.items():
+        person_teams = []
+        total = 0
+        for team_name, stat in team_list:
+            match = next((t for t in all_teams if team_name.lower() in t["name"].lower()), None)
+            if match:
+                value = match[stat]
+                total += value
+                person_teams.append({
+                    "team":  match["name"],
+                    "stat":  stat.capitalize(),
+                    "value": value,
+                })
+            else:
+                person_teams.append({
+                    "team":  team_name,
+                    "stat":  stat.capitalize(),
+                    "value": 0,
+                })
+        results.append({"name": person, "teams": person_teams, "total": total})
+    return results
+
+
+def write_data_json(results):
+    now = datetime.now().strftime("%b %d, %Y at %I:%M %p")
+    payload = {"updated": now, "people": results}
+    with open(DATA_PATH, "w") as f:
+        json.dump(payload, f, indent=2)
+    print(f"data.json written to {DATA_PATH}")
+
+
+def push_to_github():
+    cmds = [
+        ["git", "-C", REPO_DIR, "add", "data.json"],
+        ["git", "-C", REPO_DIR, "commit", "-m", f"Daily update {datetime.now().strftime('%Y-%m-%d')}"],
+        ["git", "-C", REPO_DIR, "push"],
+    ]
+    for cmd in cmds:
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        output = result.stdout.strip() or result.stderr.strip()
+        if output:
+            print(output)
+
+
+def print_summary(results):
+    print(f"\n{'='*48}")
+    print(f"  MLB Skins 2026  |  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"{'='*48}")
+    for p in sorted(results, key=lambda x: x["total"], reverse=True):
+        print(f"  {p['name']:<20} {p['total']}")
+    print(f"{'='*48}\n")
+
+
+def main():
+    year = datetime.now().year
+    print(f"Fetching MLB {year} standings...")
+    try:
+        all_teams = fetch_standings(year)
+        results = calculate_all(all_teams)
+        print_summary(results)
+        write_data_json(results)
+        push_to_github()
+        print("Done! Site will update at https://skins.vercel.app in ~30 seconds.")
+    except Exception as e:
+        print(f"Error: {e}")
+        raise
+
+
+if __name__ == "__main__":
+    main()
