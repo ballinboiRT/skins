@@ -1,5 +1,5 @@
 {
-  "updated": "May 01, 2026 at 11:45 PM",
+  "updated": "May 02, 2026 at 03:35 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,12 +12,12 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 20
+          "value": 21
         },
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 19
+          "value": 20
         },
         {
           "team": "Tigers",
@@ -40,7 +40,7 @@
           "value": 19
         }
       ],
-      "total": 123
+      "total": 125
     },
     {
       "name": "Bogo",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 21
+          "value": 22
         },
         {
           "team": "Phillies",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 15
+          "value": 16
         },
         {
           "team": "Orioles",
@@ -81,7 +81,7 @@
           "value": 16
         }
       ],
-      "total": 115
+      "total": 117
     },
     {
       "name": "RT",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 15
+          "value": 16
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 13
         }
       ],
-      "total": 108
+      "total": 109
     }
   ]
 }
