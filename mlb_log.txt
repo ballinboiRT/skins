@@ -1,0 +1,60 @@
+
+[2026-05-01 14:40] MLB Skins updater running...
+Games today: 15 | Final: 1 | In progress: 0
+14 game(s) not yet started or in progress — waiting.
+Skipping update — not all games are final yet.
+
+[2026-05-01 14:45] MLB Skins updater running...
+Games today: 15 | Final: 1 | In progress: 0
+14 game(s) not yet started or in progress — waiting.
+Skipping update — not all games are final yet.
+
+[2026-05-01 14:50] Checking standings...
+No changes — skipping update.
+
+[2026-05-01 14:55] Checking standings...
+No changes — skipping update.
+
+[2026-05-01 15:00] Checking standings...
+No changes — skipping update.
+
+[2026-05-01 15:05] Checking standings...
+No changes — skipping update.
+
+[2026-05-01 15:10] Checking standings...
+No changes — skipping update.
+
+[2026-05-01 15:15] Checking standings...
+No changes — skipping update.
+
+[2026-05-01 20:10] Checking standings...
+Standings changed! Updating site...
+
+================================================
+  Jared                122
+  Bogo                 114
+  RT                   111
+  Nuney                106
+================================================
+
+data.json saved.
+Pushing to GitHub...
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[main 65b0b2b] Update 2026-05-01 20:10
+ Committer: Ryan Tran <ryantran@Mac.attlocal.net>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+), 13 deletions(-)
+fatal: could not read Username for 'https://github.com': Device not configured
+Done! Site updated at https://playskins.vercel.app
