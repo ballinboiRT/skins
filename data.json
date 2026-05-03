@@ -1,5 +1,5 @@
 {
-  "updated": "May 03, 2026 at 01:20 PM",
+  "updated": "May 03, 2026 at 02:41 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,7 +12,7 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 21
+          "value": 22
         },
         {
           "team": "Twins",
@@ -40,7 +40,7 @@
           "value": 19
         }
       ],
-      "total": 128
+      "total": 129
     },
     {
       "name": "Bogo",
@@ -48,12 +48,12 @@
         {
           "team": "Dodgers",
           "stat": "Wins",
-          "value": 20
+          "value": 21
         },
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 22
+          "value": 23
         },
         {
           "team": "Phillies",
@@ -81,7 +81,7 @@
           "value": 16
         }
       ],
-      "total": 119
+      "total": 121
     },
     {
       "name": "RT",
@@ -114,7 +114,7 @@
         {
           "team": "Astros",
           "stat": "Wins",
-          "value": 13
+          "value": 14
         },
         {
           "team": "Guardians",
@@ -122,7 +122,7 @@
           "value": 18
         }
       ],
-      "total": 117
+      "total": 118
     },
     {
       "name": "Nuney",
@@ -135,7 +135,7 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 13
+          "value": 14
         },
         {
           "team": "Mets",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 16
+          "value": 17
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 13
         }
       ],
-      "total": 110
+      "total": 112
     }
   ]
 }
