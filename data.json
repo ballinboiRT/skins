@@ -1,5 +1,5 @@
 {
-  "updated": "May 02, 2026 at 09:33 PM",
+  "updated": "May 03, 2026 at 01:20 PM",
   "people": [
     {
       "name": "Jared",
@@ -58,7 +58,7 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 13
+          "value": 14
         },
         {
           "team": "Athletics",
@@ -81,7 +81,7 @@
           "value": 16
         }
       ],
-      "total": 118
+      "total": 119
     },
     {
       "name": "RT",
@@ -99,7 +99,7 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 17
+          "value": 18
         },
         {
           "team": "Rays",
@@ -122,7 +122,7 @@
           "value": 18
         }
       ],
-      "total": 116
+      "total": 117
     },
     {
       "name": "Nuney",
