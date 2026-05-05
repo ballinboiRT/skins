@@ -1,5 +1,5 @@
 {
-  "updated": "May 04, 2026 at 08:00 PM",
+  "updated": "May 04, 2026 at 08:25 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,7 +12,7 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 22
+          "value": 23
         },
         {
           "team": "Twins",
@@ -40,7 +40,7 @@
           "value": 20
         }
       ],
-      "total": 134
+      "total": 135
     },
     {
       "name": "Bogo",
