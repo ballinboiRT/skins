@@ -1,5 +1,5 @@
 {
-  "updated": "May 05, 2026 at 09:15 PM",
+  "updated": "May 05, 2026 at 09:20 PM",
   "people": [
     {
       "name": "Jared",
@@ -37,10 +37,10 @@
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 20
+          "value": 21
         }
       ],
-      "total": 137
+      "total": 138
     },
     {
       "name": "Bogo",
@@ -130,7 +130,7 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 18
+          "value": 19
         },
         {
           "team": "Cardinals",
@@ -163,7 +163,7 @@
           "value": 14
         }
       ],
-      "total": 119
+      "total": 120
     }
   ]
 }
