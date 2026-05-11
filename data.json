@@ -1,5 +1,5 @@
 {
-  "updated": "May 10, 2026 at 05:00 PM",
+  "updated": "May 10, 2026 at 07:55 PM",
   "people": [
     {
       "name": "Jared",
@@ -22,7 +22,7 @@
         {
           "team": "Tigers",
           "stat": "Wins",
-          "value": 18
+          "value": 19
         },
         {
           "team": "Red Sox",
@@ -40,7 +40,7 @@
           "value": 24
         }
       ],
-      "total": 156
+      "total": 157
     },
     {
       "name": "Bogo",
