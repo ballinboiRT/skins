@@ -1,5 +1,5 @@
 {
-  "updated": "May 17, 2026 at 01:25 PM",
+  "updated": "May 17, 2026 at 01:40 PM",
   "people": [
     {
       "name": "Jared",
@@ -73,15 +73,15 @@
         {
           "team": "Orioles",
           "stat": "Wins",
-          "value": 20
+          "value": 21
         },
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 21
+          "value": 22
         }
       ],
-      "total": 164
+      "total": 166
     },
     {
       "name": "RT",
@@ -89,7 +89,7 @@
         {
           "team": "Nationals",
           "stat": "Losses",
-          "value": 23
+          "value": 24
         },
         {
           "team": "Angels",
@@ -122,7 +122,7 @@
           "value": 26
         }
       ],
-      "total": 162
+      "total": 163
     },
     {
       "name": "Nuney",
