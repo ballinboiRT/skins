@@ -1,5 +1,5 @@
 {
-  "updated": "May 24, 2026 at 01:28 PM",
+  "updated": "May 24, 2026 at 02:28 PM",
   "people": [
     {
       "name": "Jared",
@@ -48,7 +48,7 @@
         {
           "team": "Dodgers",
           "stat": "Wins",
-          "value": 32
+          "value": 33
         },
         {
           "team": "Yankees",
@@ -81,7 +81,7 @@
           "value": 24
         }
       ],
-      "total": 187
+      "total": 188
     },
     {
       "name": "RT",
@@ -114,7 +114,7 @@
         {
           "team": "Astros",
           "stat": "Wins",
-          "value": 22
+          "value": 23
         },
         {
           "team": "Guardians",
@@ -122,7 +122,7 @@
           "value": 32
         }
       ],
-      "total": 186
+      "total": 187
     },
     {
       "name": "Nuney",
