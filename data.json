@@ -1,5 +1,5 @@
 {
-  "updated": "May 24, 2026 at 03:29 PM",
+  "updated": "May 24, 2026 at 05:05 PM",
   "people": [
     {
       "name": "Jared",
@@ -130,7 +130,7 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 25
+          "value": 26
         },
         {
           "team": "Cardinals",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 21
+          "value": 22
         }
       ],
-      "total": 175
+      "total": 177
     }
   ]
 }
