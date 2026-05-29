@@ -1,5 +1,5 @@
 {
-  "updated": "May 28, 2026 at 06:28 PM",
+  "updated": "May 28, 2026 at 06:55 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,7 +12,7 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 30
+          "value": 31
         },
         {
           "team": "Twins",
@@ -40,7 +40,7 @@
           "value": 31
         }
       ],
-      "total": 206
+      "total": 207
     },
     {
       "name": "Bogo",
@@ -109,7 +109,7 @@
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 27
+          "value": 28
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 33
         }
       ],
-      "total": 198
+      "total": 199
     },
     {
       "name": "Nuney",
