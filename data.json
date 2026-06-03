@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 02, 2026 at 09:43 PM",
+  "updated": "Jun 02, 2026 at 10:00 PM",
   "people": [
     {
       "name": "Jared",
@@ -48,7 +48,7 @@
         {
           "team": "Dodgers",
           "stat": "Wins",
-          "value": 38
+          "value": 39
         },
         {
           "team": "Yankees",
@@ -81,7 +81,7 @@
           "value": 30
         }
       ],
-      "total": 224
+      "total": 225
     },
     {
       "name": "RT",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 27
+          "value": 28
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 23
         }
       ],
-      "total": 207
+      "total": 208
     }
   ]
 }
