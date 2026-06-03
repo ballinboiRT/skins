@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 02, 2026 at 03:15 AM",
+  "updated": "Jun 02, 2026 at 08:42 PM",
   "people": [
     {
       "name": "Jared",
@@ -22,7 +22,7 @@
         {
           "team": "Tigers",
           "stat": "Wins",
-          "value": 23
+          "value": 24
         },
         {
           "team": "Red Sox",
@@ -32,7 +32,7 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 36
+          "value": 37
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 32
         }
       ],
-      "total": 219
+      "total": 221
     },
     {
       "name": "Bogo",
@@ -58,7 +58,7 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 30
+          "value": 31
         },
         {
           "team": "Athletics",
@@ -73,15 +73,15 @@
         {
           "team": "Orioles",
           "stat": "Wins",
-          "value": 28
+          "value": 29
         },
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 29
+          "value": 30
         }
       ],
-      "total": 221
+      "total": 224
     },
     {
       "name": "RT",
@@ -89,7 +89,7 @@
         {
           "team": "Nationals",
           "stat": "Losses",
-          "value": 30
+          "value": 31
         },
         {
           "team": "Angels",
@@ -104,7 +104,7 @@
         {
           "team": "Rays",
           "stat": "Losses",
-          "value": 21
+          "value": 22
         },
         {
           "team": "Pirates",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 34
+          "value": 35
         }
       ],
-      "total": 212
+      "total": 215
     },
     {
       "name": "Nuney",
@@ -130,12 +130,12 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 28
+          "value": 29
         },
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 27
+          "value": 28
         },
         {
           "team": "Mets",
@@ -150,7 +150,7 @@
         {
           "team": "Braves",
           "stat": "Wins",
-          "value": 40
+          "value": 41
         },
         {
           "team": "D-backs",
@@ -163,7 +163,7 @@
           "value": 23
         }
       ],
-      "total": 203
+      "total": 206
     }
   ]
 }
