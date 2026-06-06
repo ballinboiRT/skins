@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 06, 2026 at 02:50 PM",
+  "updated": "Jun 06, 2026 at 03:40 PM",
   "people": [
     {
       "name": "Jared",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 30
+          "value": 31
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 26
         }
       ],
-      "total": 219
+      "total": 220
     }
   ]
 }
