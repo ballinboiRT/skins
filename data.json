@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 05, 2026 at 06:29 PM",
+  "updated": "Jun 05, 2026 at 06:34 PM",
   "people": [
     {
       "name": "Jared",
@@ -27,7 +27,7 @@
         {
           "team": "Red Sox",
           "stat": "Wins",
-          "value": 26
+          "value": 27
         },
         {
           "team": "Brewers",
@@ -40,7 +40,7 @@
           "value": 32
         }
       ],
-      "total": 228
+      "total": 229
     },
     {
       "name": "Bogo",
@@ -58,7 +58,7 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 33
+          "value": 34
         },
         {
           "team": "Athletics",
@@ -81,7 +81,7 @@
           "value": 30
         }
       ],
-      "total": 232
+      "total": 233
     },
     {
       "name": "RT",
@@ -130,7 +130,7 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 29
+          "value": 30
         },
         {
           "team": "Cardinals",
@@ -163,7 +163,7 @@
           "value": 26
         }
       ],
-      "total": 214
+      "total": 215
     }
   ]
 }
