@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 10, 2026 at 01:15 PM",
+  "updated": "Jun 10, 2026 at 03:50 PM",
   "people": [
     {
       "name": "Jared",
@@ -37,10 +37,10 @@
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 34
+          "value": 35
         }
       ],
-      "total": 244
+      "total": 245
     },
     {
       "name": "Bogo",
@@ -89,7 +89,7 @@
         {
           "team": "Nationals",
           "stat": "Losses",
-          "value": 33
+          "value": 34
         },
         {
           "team": "Angels",
@@ -122,7 +122,7 @@
           "value": 37
         }
       ],
-      "total": 236
+      "total": 237
     },
     {
       "name": "Nuney",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 27
+          "value": 28
         }
       ],
-      "total": 228
+      "total": 229
     }
   ]
 }
