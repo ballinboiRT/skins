@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 09, 2026 at 06:40 PM",
+  "updated": "Jun 09, 2026 at 06:53 PM",
   "people": [
     {
       "name": "Jared",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 39
+          "value": 40
         },
         {
           "team": "Phillies",
@@ -81,7 +81,7 @@
           "value": 32
         }
       ],
-      "total": 248
+      "total": 249
     },
     {
       "name": "RT",
@@ -145,7 +145,7 @@
         {
           "team": "Mariners",
           "stat": "Wins",
-          "value": 35
+          "value": 36
         },
         {
           "team": "Braves",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 31
+          "value": 32
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 27
         }
       ],
-      "total": 226
+      "total": 228
     }
   ]
 }
