@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 11, 2026 at 12:55 PM",
+  "updated": "Jun 11, 2026 at 03:05 PM",
   "people": [
     {
       "name": "Jared",
@@ -7,12 +7,12 @@
         {
           "team": "Rockies",
           "stat": "Losses",
-          "value": 42
+          "value": 43
         },
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 34
+          "value": 35
         },
         {
           "team": "Twins",
@@ -40,7 +40,7 @@
           "value": 35
         }
       ],
-      "total": 247
+      "total": 249
     },
     {
       "name": "Bogo",
