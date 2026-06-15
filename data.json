@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 14, 2026 at 11:25 AM",
+  "updated": "Jun 14, 2026 at 08:20 PM",
   "people": [
     {
       "name": "Jared",
@@ -32,15 +32,15 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 42
+          "value": 43
         },
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 36
+          "value": 37
         }
       ],
-      "total": 258
+      "total": 260
     },
     {
       "name": "Bogo",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 42
+          "value": 43
         },
         {
           "team": "Phillies",
@@ -63,7 +63,7 @@
         {
           "team": "Athletics",
           "stat": "Losses",
-          "value": 35
+          "value": 36
         },
         {
           "team": "Blue Jays",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 34
+          "value": 35
         }
       ],
-      "total": 262
+      "total": 265
     },
     {
       "name": "RT",
@@ -94,7 +94,7 @@
         {
           "team": "Angels",
           "stat": "Losses",
-          "value": 42
+          "value": 43
         },
         {
           "team": "Marlins",
@@ -109,7 +109,7 @@
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 35
+          "value": 36
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 39
         }
       ],
-      "total": 247
+      "total": 249
     },
     {
       "name": "Nuney",
@@ -135,12 +135,12 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 30
+          "value": 31
         },
         {
           "team": "Mets",
           "stat": "Wins",
-          "value": 31
+          "value": 32
         },
         {
           "team": "Mariners",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 28
+          "value": 29
         }
       ],
-      "total": 239
+      "total": 242
     }
   ]
 }
