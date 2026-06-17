@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 16, 2026 at 08:25 PM",
+  "updated": "Jun 16, 2026 at 09:00 PM",
   "people": [
     {
       "name": "Jared",
@@ -145,7 +145,7 @@
         {
           "team": "Mariners",
           "stat": "Wins",
-          "value": 37
+          "value": 38
         },
         {
           "team": "Braves",
@@ -163,7 +163,7 @@
           "value": 29
         }
       ],
-      "total": 243
+      "total": 244
     }
   ]
 }
