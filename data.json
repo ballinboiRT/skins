@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 19, 2026 at 06:50 PM",
+  "updated": "Jun 19, 2026 at 08:07 PM",
   "people": [
     {
       "name": "Jared",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 35
+          "value": 36
         }
       ],
-      "total": 279
+      "total": 280
     },
     {
       "name": "RT",
@@ -109,12 +109,12 @@
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 37
+          "value": 38
         },
         {
           "team": "Astros",
           "stat": "Wins",
-          "value": 35
+          "value": 36
         },
         {
           "team": "Guardians",
@@ -122,7 +122,7 @@
           "value": 40
         }
       ],
-      "total": 263
+      "total": 265
     },
     {
       "name": "Nuney",
@@ -135,7 +135,7 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 33
+          "value": 34
         },
         {
           "team": "Mets",
@@ -163,7 +163,7 @@
           "value": 31
         }
       ],
-      "total": 255
+      "total": 256
     }
   ]
 }
