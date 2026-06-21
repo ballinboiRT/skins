@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 20, 2026 at 04:30 PM",
+  "updated": "Jun 20, 2026 at 07:05 PM",
   "people": [
     {
       "name": "Jared",
@@ -58,7 +58,7 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 40
+          "value": 41
         },
         {
           "team": "Athletics",
@@ -81,7 +81,7 @@
           "value": 36
         }
       ],
-      "total": 282
+      "total": 283
     },
     {
       "name": "RT",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 40
+          "value": 41
         }
       ],
-      "total": 267
+      "total": 268
     },
     {
       "name": "Nuney",
