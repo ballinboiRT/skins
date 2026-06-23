@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 22, 2026 at 07:10 PM",
+  "updated": "Jun 22, 2026 at 07:31 PM",
   "people": [
     {
       "name": "Jared",
@@ -17,7 +17,7 @@
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 41
+          "value": 42
         },
         {
           "team": "Tigers",
@@ -40,7 +40,7 @@
           "value": 39
         }
       ],
-      "total": 280
+      "total": 281
     },
     {
       "name": "Bogo",
@@ -48,7 +48,7 @@
         {
           "team": "Dodgers",
           "stat": "Wins",
-          "value": 49
+          "value": 50
         },
         {
           "team": "Yankees",
@@ -81,7 +81,7 @@
           "value": 38
         }
       ],
-      "total": 291
+      "total": 292
     },
     {
       "name": "RT",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 38
+          "value": 39
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 31
         }
       ],
-      "total": 262
+      "total": 263
     }
   ]
 }
