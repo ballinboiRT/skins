@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 23, 2026 at 04:50 PM",
+  "updated": "Jun 23, 2026 at 06:40 PM",
   "people": [
     {
       "name": "Jared",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 46
+          "value": 47
         },
         {
           "team": "Phillies",
@@ -81,7 +81,7 @@
           "value": 38
         }
       ],
-      "total": 293
+      "total": 294
     },
     {
       "name": "RT",
@@ -104,12 +104,12 @@
         {
           "team": "Rays",
           "stat": "Losses",
-          "value": 32
+          "value": 33
         },
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 39
+          "value": 40
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 41
         }
       ],
-      "total": 275
+      "total": 277
     },
     {
       "name": "Nuney",
@@ -145,7 +145,7 @@
         {
           "team": "Mariners",
           "stat": "Wins",
-          "value": 40
+          "value": 41
         },
         {
           "team": "Braves",
@@ -163,7 +163,7 @@
           "value": 31
         }
       ],
-      "total": 263
+      "total": 264
     }
   ]
 }
