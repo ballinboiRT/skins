@@ -1,5 +1,5 @@
 {
-  "updated": "Jun 27, 2026 at 03:26 PM",
+  "updated": "Jun 27, 2026 at 04:51 PM",
   "people": [
     {
       "name": "Jared",
@@ -109,7 +109,7 @@
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 41
+          "value": 42
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 42
         }
       ],
-      "total": 287
+      "total": 288
     },
     {
       "name": "Nuney",
