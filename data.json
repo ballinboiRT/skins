@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 05, 2026 at 03:25 PM",
+  "updated": "Jul 05, 2026 at 04:00 PM",
   "people": [
     {
       "name": "Jared",
@@ -32,7 +32,7 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 54
+          "value": 55
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 43
         }
       ],
-      "total": 327
+      "total": 328
     },
     {
       "name": "Bogo",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 44
+          "value": 45
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 37
         }
       ],
-      "total": 298
+      "total": 299
     }
   ]
 }
