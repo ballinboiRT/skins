@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 06, 2026 at 06:11 PM",
+  "updated": "Jul 06, 2026 at 09:31 PM",
   "people": [
     {
       "name": "Jared",
@@ -32,7 +32,7 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 55
+          "value": 56
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 44
         }
       ],
-      "total": 330
+      "total": 331
     },
     {
       "name": "Bogo",
@@ -135,12 +135,12 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 40
+          "value": 41
         },
         {
           "team": "Mets",
           "stat": "Wins",
-          "value": 37
+          "value": 38
         },
         {
           "team": "Mariners",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 37
+          "value": 38
         }
       ],
-      "total": 300
+      "total": 303
     }
   ]
 }
