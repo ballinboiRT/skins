@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 07, 2026 at 01:55 PM",
+  "updated": "Jul 07, 2026 at 07:40 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,7 +12,7 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 50
+          "value": 51
         },
         {
           "team": "Twins",
@@ -22,17 +22,17 @@
         {
           "team": "Tigers",
           "stat": "Wins",
-          "value": 40
+          "value": 41
         },
         {
           "team": "Red Sox",
           "stat": "Wins",
-          "value": 40
+          "value": 41
         },
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 57
+          "value": 58
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 44
         }
       ],
-      "total": 333
+      "total": 337
     },
     {
       "name": "Bogo",
@@ -58,12 +58,12 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 50
+          "value": 51
         },
         {
           "team": "Athletics",
           "stat": "Losses",
-          "value": 49
+          "value": 50
         },
         {
           "team": "Blue Jays",
@@ -81,7 +81,7 @@
           "value": 45
         }
       ],
-      "total": 338
+      "total": 340
     },
     {
       "name": "RT",
@@ -89,7 +89,7 @@
         {
           "team": "Nationals",
           "stat": "Losses",
-          "value": 45
+          "value": 46
         },
         {
           "team": "Angels",
@@ -114,7 +114,7 @@
         {
           "team": "Astros",
           "stat": "Wins",
-          "value": 45
+          "value": 46
         },
         {
           "team": "Guardians",
@@ -122,7 +122,7 @@
           "value": 47
         }
       ],
-      "total": 315
+      "total": 317
     },
     {
       "name": "Nuney",
@@ -130,12 +130,12 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 42
+          "value": 43
         },
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 42
+          "value": 43
         },
         {
           "team": "Mets",
@@ -163,7 +163,7 @@
           "value": 38
         }
       ],
-      "total": 304
+      "total": 306
     }
   ]
 }
