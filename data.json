@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 07, 2026 at 08:51 PM",
+  "updated": "Jul 07, 2026 at 10:45 PM",
   "people": [
     {
       "name": "Jared",
@@ -37,10 +37,10 @@
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 44
+          "value": 45
         }
       ],
-      "total": 337
+      "total": 338
     },
     {
       "name": "Bogo",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 42
+          "value": 43
         },
         {
           "team": "Orioles",
@@ -81,7 +81,7 @@
           "value": 46
         }
       ],
-      "total": 341
+      "total": 342
     },
     {
       "name": "RT",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 45
+          "value": 46
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 38
         }
       ],
-      "total": 306
+      "total": 307
     }
   ]
 }
