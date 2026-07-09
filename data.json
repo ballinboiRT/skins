@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 09, 2026 at 01:10 PM",
+  "updated": "Jul 09, 2026 at 01:25 PM",
   "people": [
     {
       "name": "Jared",
@@ -109,7 +109,7 @@
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 46
+          "value": 47
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 48
         }
       ],
-      "total": 321
+      "total": 322
     },
     {
       "name": "Nuney",
@@ -150,7 +150,7 @@
         {
           "team": "Braves",
           "stat": "Wins",
-          "value": 53
+          "value": 54
         },
         {
           "team": "D-backs",
@@ -163,7 +163,7 @@
           "value": 38
         }
       ],
-      "total": 312
+      "total": 313
     }
   ]
 }
