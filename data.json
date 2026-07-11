@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 11, 2026 at 02:22 PM",
+  "updated": "Jul 11, 2026 at 03:23 PM",
   "people": [
     {
       "name": "Jared",
@@ -7,7 +7,7 @@
         {
           "team": "Rockies",
           "stat": "Losses",
-          "value": 57
+          "value": 58
         },
         {
           "team": "Cubs",
@@ -40,7 +40,7 @@
           "value": 46
         }
       ],
-      "total": 351
+      "total": 352
     },
     {
       "name": "Bogo",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 39
+          "value": 40
         }
       ],
-      "total": 316
+      "total": 317
     }
   ]
 }
