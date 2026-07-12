@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 12, 2026 at 02:20 PM",
+  "updated": "Jul 12, 2026 at 02:45 PM",
   "people": [
     {
       "name": "Jared",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 48
+          "value": 49
         }
       ],
-      "total": 363
+      "total": 364
     },
     {
       "name": "RT",
