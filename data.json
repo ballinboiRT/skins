@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 20, 2026 at 07:20 PM",
+  "updated": "Jul 20, 2026 at 08:05 PM",
   "people": [
     {
       "name": "Jared",
@@ -99,7 +99,7 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 48
+          "value": 49
         },
         {
           "team": "Rays",
@@ -114,7 +114,7 @@
         {
           "team": "Astros",
           "stat": "Wins",
-          "value": 47
+          "value": 48
         },
         {
           "team": "Guardians",
@@ -122,7 +122,7 @@
           "value": 53
         }
       ],
-      "total": 350
+      "total": 352
     },
     {
       "name": "Nuney",
