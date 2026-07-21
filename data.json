@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 19, 2026 at 07:20 PM",
+  "updated": "Jul 20, 2026 at 06:30 PM",
   "people": [
     {
       "name": "Jared",
@@ -17,7 +17,7 @@
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 51
+          "value": 52
         },
         {
           "team": "Tigers",
@@ -40,7 +40,7 @@
           "value": 49
         }
       ],
-      "total": 375
+      "total": 376
     },
     {
       "name": "Bogo",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 52
+          "value": 53
         }
       ],
-      "total": 348
+      "total": 349
     },
     {
       "name": "Nuney",
