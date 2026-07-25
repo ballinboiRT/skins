@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 25, 2026 at 03:43 PM",
+  "updated": "Jul 25, 2026 at 04:28 PM",
   "people": [
     {
       "name": "Jared",
@@ -37,10 +37,10 @@
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 51
+          "value": 52
         }
       ],
-      "total": 393
+      "total": 394
     },
     {
       "name": "Bogo",
@@ -99,7 +99,7 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 52
+          "value": 53
         },
         {
           "team": "Rays",
@@ -122,7 +122,7 @@
           "value": 54
         }
       ],
-      "total": 367
+      "total": 368
     },
     {
       "name": "Nuney",
