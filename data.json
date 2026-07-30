@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 29, 2026 at 10:45 PM",
+  "updated": "Jul 30, 2026 at 02:20 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,7 +12,7 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 61
+          "value": 62
         },
         {
           "team": "Twins",
@@ -40,7 +40,7 @@
           "value": 55
         }
       ],
-      "total": 412
+      "total": 413
     },
     {
       "name": "Bogo",
@@ -135,7 +135,7 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 54
+          "value": 55
         },
         {
           "team": "Mets",
@@ -163,7 +163,7 @@
           "value": 46
         }
       ],
-      "total": 365
+      "total": 366
     }
   ]
 }
