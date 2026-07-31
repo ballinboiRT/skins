@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 30, 2026 at 10:05 PM",
+  "updated": "Jul 31, 2026 at 01:50 PM",
   "people": [
     {
       "name": "Jared",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 61
+          "value": 62
         },
         {
           "team": "Phillies",
@@ -81,7 +81,7 @@
           "value": 55
         }
       ],
-      "total": 409
+      "total": 410
     },
     {
       "name": "RT",
