@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 30, 2026 at 07:45 PM",
+  "updated": "Jul 30, 2026 at 08:05 PM",
   "people": [
     {
       "name": "Jared",
@@ -99,7 +99,7 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 54
+          "value": 55
         },
         {
           "team": "Rays",
@@ -122,7 +122,7 @@
           "value": 56
         }
       ],
-      "total": 386
+      "total": 387
     },
     {
       "name": "Nuney",
@@ -140,7 +140,7 @@
         {
           "team": "Mets",
           "stat": "Wins",
-          "value": 46
+          "value": 47
         },
         {
           "team": "Mariners",
@@ -163,7 +163,7 @@
           "value": 46
         }
       ],
-      "total": 367
+      "total": 368
     }
   ]
 }
