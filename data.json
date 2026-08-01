@@ -1,5 +1,5 @@
 {
-  "updated": "Jul 31, 2026 at 10:05 PM",
+  "updated": "Aug 01, 2026 at 03:10 PM",
   "people": [
     {
       "name": "Jared",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 51
+          "value": 52
         },
         {
           "team": "Orioles",
@@ -81,7 +81,7 @@
           "value": 55
         }
       ],
-      "total": 413
+      "total": 414
     },
     {
       "name": "RT",
@@ -135,7 +135,7 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 56
+          "value": 57
         },
         {
           "team": "Mets",
@@ -163,7 +163,7 @@
           "value": 47
         }
       ],
-      "total": 371
+      "total": 372
     }
   ]
 }
