@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 02, 2026 at 04:13 PM",
+  "updated": "Aug 02, 2026 at 04:23 PM",
   "people": [
     {
       "name": "Jared",
@@ -22,7 +22,7 @@
         {
           "team": "Tigers",
           "stat": "Wins",
-          "value": 53
+          "value": 54
         },
         {
           "team": "Red Sox",
@@ -40,7 +40,7 @@
           "value": 58
         }
       ],
-      "total": 426
+      "total": 427
     },
     {
       "name": "Bogo",
@@ -63,7 +63,7 @@
         {
           "team": "Athletics",
           "stat": "Losses",
-          "value": 66
+          "value": 67
         },
         {
           "team": "Blue Jays",
@@ -81,7 +81,7 @@
           "value": 55
         }
       ],
-      "total": 418
+      "total": 419
     },
     {
       "name": "RT",
