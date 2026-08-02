@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 02, 2026 at 02:13 PM",
+  "updated": "Aug 02, 2026 at 02:53 PM",
   "people": [
     {
       "name": "Jared",
@@ -58,7 +58,7 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 58
+          "value": 59
         },
         {
           "team": "Athletics",
@@ -81,7 +81,7 @@
           "value": 55
         }
       ],
-      "total": 417
+      "total": 418
     },
     {
       "name": "RT",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 56
+          "value": 57
         }
       ],
-      "total": 399
+      "total": 400
     },
     {
       "name": "Nuney",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 52
+          "value": 53
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 47
         }
       ],
-      "total": 376
+      "total": 377
     }
   ]
 }
