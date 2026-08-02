@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 02, 2026 at 02:53 PM",
+  "updated": "Aug 02, 2026 at 04:08 PM",
   "people": [
     {
       "name": "Jared",
@@ -17,7 +17,7 @@
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 56
+          "value": 57
         },
         {
           "team": "Tigers",
@@ -40,7 +40,7 @@
           "value": 57
         }
       ],
-      "total": 424
+      "total": 425
     },
     {
       "name": "Bogo",
@@ -145,7 +145,7 @@
         {
           "team": "Mariners",
           "stat": "Wins",
-          "value": 54
+          "value": 55
         },
         {
           "team": "Braves",
@@ -163,7 +163,7 @@
           "value": 47
         }
       ],
-      "total": 377
+      "total": 378
     }
   ]
 }
