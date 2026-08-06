@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 05, 2026 at 02:55 PM",
+  "updated": "Aug 05, 2026 at 10:00 PM",
   "people": [
     {
       "name": "Jared",
@@ -17,7 +17,7 @@
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 58
+          "value": 59
         },
         {
           "team": "Tigers",
@@ -27,12 +27,12 @@
         {
           "team": "Red Sox",
           "stat": "Wins",
-          "value": 61
+          "value": 62
         },
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 70
+          "value": 71
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 59
         }
       ],
-      "total": 439
+      "total": 442
     },
     {
       "name": "Bogo",
@@ -63,7 +63,7 @@
         {
           "team": "Athletics",
           "stat": "Losses",
-          "value": 68
+          "value": 69
         },
         {
           "team": "Blue Jays",
@@ -73,7 +73,7 @@
         {
           "team": "Orioles",
           "stat": "Wins",
-          "value": 55
+          "value": 56
         },
         {
           "team": "Rangers",
@@ -81,7 +81,7 @@
           "value": 57
         }
       ],
-      "total": 428
+      "total": 430
     },
     {
       "name": "RT",
@@ -94,12 +94,12 @@
         {
           "team": "Angels",
           "stat": "Losses",
-          "value": 70
+          "value": 71
         },
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 56
+          "value": 57
         },
         {
           "team": "Rays",
@@ -109,7 +109,7 @@
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 58
+          "value": 59
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 57
         }
       ],
-      "total": 406
+      "total": 409
     },
     {
       "name": "Nuney",
@@ -130,7 +130,7 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 53
+          "value": 54
         },
         {
           "team": "Cardinals",
@@ -140,17 +140,17 @@
         {
           "team": "Mets",
           "stat": "Wins",
-          "value": 48
+          "value": 49
         },
         {
           "team": "Mariners",
           "stat": "Wins",
-          "value": 55
+          "value": 56
         },
         {
           "team": "Braves",
           "stat": "Wins",
-          "value": 68
+          "value": 69
         },
         {
           "team": "D-backs",
@@ -163,7 +163,7 @@
           "value": 48
         }
       ],
-      "total": 384
+      "total": 388
     }
   ]
 }
