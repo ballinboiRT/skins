@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 06, 2026 at 08:40 PM",
+  "updated": "Aug 06, 2026 at 09:30 PM",
   "people": [
     {
       "name": "Jared",
@@ -37,10 +37,10 @@
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 59
+          "value": 60
         }
       ],
-      "total": 446
+      "total": 447
     },
     {
       "name": "Bogo",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 54
+          "value": 55
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 48
         }
       ],
-      "total": 391
+      "total": 392
     }
   ]
 }
