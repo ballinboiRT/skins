@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 06, 2026 at 04:00 PM",
+  "updated": "Aug 06, 2026 at 06:00 PM",
   "people": [
     {
       "name": "Jared",
@@ -58,7 +58,7 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 61
+          "value": 62
         },
         {
           "team": "Athletics",
@@ -81,7 +81,7 @@
           "value": 57
         }
       ],
-      "total": 431
+      "total": 432
     },
     {
       "name": "RT",
@@ -89,7 +89,7 @@
         {
           "team": "Nationals",
           "stat": "Losses",
-          "value": 60
+          "value": 61
         },
         {
           "team": "Angels",
@@ -122,7 +122,7 @@
           "value": 57
         }
       ],
-      "total": 410
+      "total": 411
     },
     {
       "name": "Nuney",
