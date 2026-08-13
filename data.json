@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 12, 2026 at 06:50 PM",
+  "updated": "Aug 12, 2026 at 06:55 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,7 +12,7 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 70
+          "value": 71
         },
         {
           "team": "Twins",
@@ -40,7 +40,7 @@
           "value": 65
         }
       ],
-      "total": 467
+      "total": 468
     },
     {
       "name": "Bogo",
@@ -89,7 +89,7 @@
         {
           "team": "Nationals",
           "stat": "Losses",
-          "value": 62
+          "value": 63
         },
         {
           "team": "Angels",
@@ -122,7 +122,7 @@
           "value": 59
         }
       ],
-      "total": 426
+      "total": 427
     },
     {
       "name": "Nuney",
