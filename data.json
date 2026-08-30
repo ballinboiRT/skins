@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 30, 2026 at 12:25 PM",
+  "updated": "Aug 30, 2026 at 03:10 PM",
   "people": [
     {
       "name": "Jared",
@@ -7,7 +7,7 @@
         {
           "team": "Rockies",
           "stat": "Losses",
-          "value": 84
+          "value": 85
         },
         {
           "team": "Cubs",
@@ -40,7 +40,7 @@
           "value": 72
         }
       ],
-      "total": 527
+      "total": 528
     },
     {
       "name": "Bogo",
@@ -48,12 +48,12 @@
         {
           "team": "Dodgers",
           "stat": "Wins",
-          "value": 81
+          "value": 82
         },
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 77
+          "value": 78
         },
         {
           "team": "Phillies",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 67
+          "value": 68
         },
         {
           "team": "Orioles",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 66
+          "value": 67
         }
       ],
-      "total": 517
+      "total": 521
     },
     {
       "name": "RT",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 68
+          "value": 69
         }
       ],
-      "total": 487
+      "total": 488
     },
     {
       "name": "Nuney",
@@ -130,12 +130,12 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 63
+          "value": 64
         },
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 69
+          "value": 70
         },
         {
           "team": "Mets",
@@ -150,7 +150,7 @@
         {
           "team": "Braves",
           "stat": "Wins",
-          "value": 81
+          "value": 82
         },
         {
           "team": "D-backs",
@@ -163,7 +163,7 @@
           "value": 56
         }
       ],
-      "total": 459
+      "total": 462
     }
   ]
 }
