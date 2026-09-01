@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 31, 2026 at 09:55 PM",
+  "updated": "Sep 01, 2026 at 01:28 AM",
   "people": [
     {
       "name": "Jared",
@@ -7,7 +7,7 @@
         {
           "team": "Rockies",
           "stat": "Losses",
-          "value": 85
+          "value": 86
         },
         {
           "team": "Cubs",
@@ -40,7 +40,7 @@
           "value": 73
         }
       ],
-      "total": 531
+      "total": 532
     },
     {
       "name": "Bogo",
@@ -73,7 +73,7 @@
         {
           "team": "Orioles",
           "stat": "Wins",
-          "value": 68
+          "value": 69
         },
         {
           "team": "Rangers",
@@ -81,7 +81,7 @@
           "value": 68
         }
       ],
-      "total": 527
+      "total": 528
     },
     {
       "name": "RT",
