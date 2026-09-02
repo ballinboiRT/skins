@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 01, 2026 at 06:25 PM",
+  "updated": "Sep 01, 2026 at 09:30 PM",
   "people": [
     {
       "name": "Jared",
@@ -32,7 +32,7 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 85
+          "value": 86
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 73
         }
       ],
-      "total": 532
+      "total": 533
     },
     {
       "name": "Bogo",
@@ -58,12 +58,12 @@
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 78
+          "value": 79
         },
         {
           "team": "Athletics",
           "stat": "Losses",
-          "value": 85
+          "value": 86
         },
         {
           "team": "Blue Jays",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 68
+          "value": 69
         }
       ],
-      "total": 528
+      "total": 531
     },
     {
       "name": "RT",
@@ -145,7 +145,7 @@
         {
           "team": "Mariners",
           "stat": "Wins",
-          "value": 64
+          "value": 65
         },
         {
           "team": "Braves",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 66
+          "value": 67
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 57
         }
       ],
-      "total": 466
+      "total": 468
     }
   ]
 }
