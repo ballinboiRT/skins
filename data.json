@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 03, 2026 at 01:45 PM",
+  "updated": "Sep 03, 2026 at 07:27 PM",
   "people": [
     {
       "name": "Jared",
@@ -12,7 +12,7 @@
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 78
+          "value": 79
         },
         {
           "team": "Twins",
@@ -27,7 +27,7 @@
         {
           "team": "Red Sox",
           "stat": "Wins",
-          "value": 75
+          "value": 76
         },
         {
           "team": "Brewers",
@@ -40,7 +40,7 @@
           "value": 73
         }
       ],
-      "total": 536
+      "total": 538
     },
     {
       "name": "Bogo",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 69
+          "value": 70
         }
       ],
-      "total": 535
+      "total": 536
     },
     {
       "name": "RT",
@@ -99,12 +99,12 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 69
+          "value": 70
         },
         {
           "team": "Rays",
           "stat": "Losses",
-          "value": 56
+          "value": 57
         },
         {
           "team": "Pirates",
@@ -122,7 +122,7 @@
           "value": 70
         }
       ],
-      "total": 501
+      "total": 503
     },
     {
       "name": "Nuney",
