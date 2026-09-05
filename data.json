@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 04, 2026 at 06:45 PM",
+  "updated": "Sep 04, 2026 at 09:32 PM",
   "people": [
     {
       "name": "Jared",
@@ -7,17 +7,17 @@
         {
           "team": "Rockies",
           "stat": "Losses",
-          "value": 86
+          "value": 87
         },
         {
           "team": "Cubs",
           "stat": "Wins",
-          "value": 79
+          "value": 80
         },
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 73
+          "value": 74
         },
         {
           "team": "Tigers",
@@ -32,15 +32,15 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 87
+          "value": 88
         },
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 73
+          "value": 74
         }
       ],
-      "total": 539
+      "total": 544
     },
     {
       "name": "Bogo",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 70
+          "value": 71
         },
         {
           "team": "Orioles",
@@ -81,7 +81,7 @@
           "value": 70
         }
       ],
-      "total": 537
+      "total": 538
     },
     {
       "name": "RT",
@@ -99,7 +99,7 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 70
+          "value": 71
         },
         {
           "team": "Rays",
@@ -114,15 +114,15 @@
         {
           "team": "Astros",
           "stat": "Wins",
-          "value": 72
+          "value": 73
         },
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 71
+          "value": 72
         }
       ],
-      "total": 505
+      "total": 508
     },
     {
       "name": "Nuney",
@@ -140,7 +140,7 @@
         {
           "team": "Mets",
           "stat": "Wins",
-          "value": 63
+          "value": 64
         },
         {
           "team": "Mariners",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 67
+          "value": 68
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 58
         }
       ],
-      "total": 476
+      "total": 478
     }
   ]
 }
