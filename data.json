@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 05, 2026 at 05:40 PM",
+  "updated": "Sep 05, 2026 at 10:10 PM",
   "people": [
     {
       "name": "Jared",
@@ -27,7 +27,7 @@
         {
           "team": "Red Sox",
           "stat": "Wins",
-          "value": 77
+          "value": 78
         },
         {
           "team": "Brewers",
@@ -40,7 +40,7 @@
           "value": 74
         }
       ],
-      "total": 546
+      "total": 547
     },
     {
       "name": "Bogo",
@@ -48,12 +48,12 @@
         {
           "team": "Dodgers",
           "stat": "Wins",
-          "value": 84
+          "value": 85
         },
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 80
+          "value": 81
         },
         {
           "team": "Phillies",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 71
+          "value": 72
         },
         {
           "team": "Orioles",
@@ -81,7 +81,7 @@
           "value": 70
         }
       ],
-      "total": 540
+      "total": 543
     },
     {
       "name": "RT",
@@ -89,7 +89,7 @@
         {
           "team": "Nationals",
           "stat": "Losses",
-          "value": 76
+          "value": 77
         },
         {
           "team": "Angels",
@@ -109,7 +109,7 @@
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 72
+          "value": 73
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 72
         }
       ],
-      "total": 510
+      "total": 512
     },
     {
       "name": "Nuney",
@@ -130,12 +130,12 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 67
+          "value": 68
         },
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 71
+          "value": 72
         },
         {
           "team": "Mets",
@@ -163,7 +163,7 @@
           "value": 59
         }
       ],
-      "total": 479
+      "total": 481
     }
   ]
 }
