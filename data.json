@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 06, 2026 at 03:55 PM",
+  "updated": "Sep 06, 2026 at 07:41 PM",
   "people": [
     {
       "name": "Jared",
@@ -17,7 +17,7 @@
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 74
+          "value": 75
         },
         {
           "team": "Tigers",
@@ -40,7 +40,7 @@
           "value": 75
         }
       ],
-      "total": 550
+      "total": 551
     },
     {
       "name": "Bogo",
