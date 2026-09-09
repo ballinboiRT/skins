@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 09, 2026 at 02:45 PM",
+  "updated": "Sep 09, 2026 at 03:25 PM",
   "people": [
     {
       "name": "Jared",
@@ -135,7 +135,7 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 74
+          "value": 75
         },
         {
           "team": "Mets",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 61
+          "value": 62
         }
       ],
-      "total": 491
+      "total": 493
     }
   ]
 }
