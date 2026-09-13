@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 12, 2026 at 04:40 PM",
+  "updated": "Sep 12, 2026 at 07:14 PM",
   "people": [
     {
       "name": "Jared",
@@ -32,7 +32,7 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 92
+          "value": 93
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 80
         }
       ],
-      "total": 576
+      "total": 577
     },
     {
       "name": "Bogo",
@@ -150,7 +150,7 @@
         {
           "team": "Braves",
           "stat": "Wins",
-          "value": 87
+          "value": 88
         },
         {
           "team": "D-backs",
@@ -163,7 +163,7 @@
           "value": 62
         }
       ],
-      "total": 503
+      "total": 504
     }
   ]
 }
