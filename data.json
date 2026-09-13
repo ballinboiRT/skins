@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 12, 2026 at 09:50 PM",
+  "updated": "Sep 13, 2026 at 02:50 PM",
   "people": [
     {
       "name": "Jared",
@@ -7,7 +7,7 @@
         {
           "team": "Rockies",
           "stat": "Losses",
-          "value": 93
+          "value": 94
         },
         {
           "team": "Cubs",
@@ -17,12 +17,12 @@
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 78
+          "value": 79
         },
         {
           "team": "Tigers",
           "stat": "Wins",
-          "value": 69
+          "value": 70
         },
         {
           "team": "Red Sox",
@@ -40,7 +40,7 @@
           "value": 80
         }
       ],
-      "total": 577
+      "total": 580
     },
     {
       "name": "Bogo",
@@ -53,12 +53,12 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 85
+          "value": 86
         },
         {
           "team": "Phillies",
           "stat": "Wins",
-          "value": 82
+          "value": 83
         },
         {
           "team": "Athletics",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 74
+          "value": 75
         },
         {
           "team": "Orioles",
@@ -81,7 +81,7 @@
           "value": 73
         }
       ],
-      "total": 565
+      "total": 568
     },
     {
       "name": "RT",
@@ -94,7 +94,7 @@
         {
           "team": "Angels",
           "stat": "Losses",
-          "value": 92
+          "value": 93
         },
         {
           "team": "Marlins",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 75
+          "value": 76
         }
       ],
-      "total": 533
+      "total": 535
     },
     {
       "name": "Nuney",
@@ -130,7 +130,7 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 72
+          "value": 73
         },
         {
           "team": "Cardinals",
@@ -163,7 +163,7 @@
           "value": 62
         }
       ],
-      "total": 507
+      "total": 508
     }
   ]
 }
