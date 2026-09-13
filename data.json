@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 13, 2026 at 02:50 PM",
+  "updated": "Sep 13, 2026 at 03:52 PM",
   "people": [
     {
       "name": "Jared",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 73
+          "value": 74
         }
       ],
-      "total": 568
+      "total": 569
     },
     {
       "name": "RT",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 70
+          "value": 71
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 62
         }
       ],
-      "total": 508
+      "total": 509
     }
   ]
 }
