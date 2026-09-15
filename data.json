@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 14, 2026 at 09:25 PM",
+  "updated": "Sep 15, 2026 at 02:25 AM",
   "people": [
     {
       "name": "Jared",
@@ -99,7 +99,7 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 76
+          "value": 77
         },
         {
           "team": "Rays",
@@ -122,7 +122,7 @@
           "value": 76
         }
       ],
-      "total": 535
+      "total": 536
     },
     {
       "name": "Nuney",
