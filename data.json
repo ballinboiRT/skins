@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 15, 2026 at 07:27 PM",
+  "updated": "Sep 15, 2026 at 07:32 PM",
   "people": [
     {
       "name": "Jared",
@@ -17,7 +17,7 @@
         {
           "team": "Twins",
           "stat": "Losses",
-          "value": 80
+          "value": 81
         },
         {
           "team": "Tigers",
@@ -40,7 +40,7 @@
           "value": 82
         }
       ],
-      "total": 589
+      "total": 590
     },
     {
       "name": "Bogo",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 87
+          "value": 88
         },
         {
           "team": "Phillies",
@@ -81,7 +81,7 @@
           "value": 74
         }
       ],
-      "total": 574
+      "total": 575
     },
     {
       "name": "RT",
