@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 15, 2026 at 07:37 PM",
+  "updated": "Sep 15, 2026 at 07:42 PM",
   "people": [
     {
       "name": "Jared",
@@ -73,7 +73,7 @@
         {
           "team": "Orioles",
           "stat": "Wins",
-          "value": 73
+          "value": 74
         },
         {
           "team": "Rangers",
@@ -81,7 +81,7 @@
           "value": 74
         }
       ],
-      "total": 575
+      "total": 576
     },
     {
       "name": "RT",
@@ -135,7 +135,7 @@
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 76
+          "value": 77
         },
         {
           "team": "Mets",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 62
+          "value": 63
         }
       ],
-      "total": 511
+      "total": 513
     }
   ]
 }
