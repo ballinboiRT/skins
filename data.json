@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 15, 2026 at 10:17 PM",
+  "updated": "Sep 16, 2026 at 02:45 PM",
   "people": [
     {
       "name": "Jared",
@@ -68,7 +68,7 @@
         {
           "team": "Blue Jays",
           "stat": "Wins",
-          "value": 75
+          "value": 76
         },
         {
           "team": "Orioles",
@@ -81,7 +81,7 @@
           "value": 75
         }
       ],
-      "total": 577
+      "total": 578
     },
     {
       "name": "RT",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 77
+          "value": 78
         }
       ],
-      "total": 539
+      "total": 540
     },
     {
       "name": "Nuney",
@@ -130,12 +130,12 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 74
+          "value": 75
         },
         {
           "team": "Cardinals",
           "stat": "Losses",
-          "value": 77
+          "value": 78
         },
         {
           "team": "Mets",
@@ -160,10 +160,10 @@
         {
           "team": "Giants",
           "stat": "Wins",
-          "value": 63
+          "value": 64
         }
       ],
-      "total": 514
+      "total": 517
     }
   ]
 }
