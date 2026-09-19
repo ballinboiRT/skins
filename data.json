@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 18, 2026 at 09:17 PM",
+  "updated": "Sep 18, 2026 at 09:35 PM",
   "people": [
     {
       "name": "Jared",
@@ -37,10 +37,10 @@
         {
           "team": "Padres",
           "stat": "Wins",
-          "value": 84
+          "value": 85
         }
       ],
-      "total": 602
+      "total": 603
     },
     {
       "name": "Bogo",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 88
+          "value": 89
         },
         {
           "team": "Phillies",
@@ -81,7 +81,7 @@
           "value": 77
         }
       ],
-      "total": 587
+      "total": 588
     },
     {
       "name": "RT",
@@ -99,7 +99,7 @@
         {
           "team": "Marlins",
           "stat": "Losses",
-          "value": 77
+          "value": 78
         },
         {
           "team": "Rays",
@@ -122,7 +122,7 @@
           "value": 79
         }
       ],
-      "total": 547
+      "total": 548
     },
     {
       "name": "Nuney",
@@ -155,7 +155,7 @@
         {
           "team": "D-backs",
           "stat": "Losses",
-          "value": 73
+          "value": 74
         },
         {
           "team": "Giants",
@@ -163,7 +163,7 @@
           "value": 64
         }
       ],
-      "total": 524
+      "total": 525
     }
   ]
 }
