@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 18, 2026 at 08:00 PM",
+  "updated": "Sep 18, 2026 at 08:35 PM",
   "people": [
     {
       "name": "Jared",
@@ -7,7 +7,7 @@
         {
           "team": "Rockies",
           "stat": "Losses",
-          "value": 97
+          "value": 98
         },
         {
           "team": "Cubs",
@@ -40,7 +40,7 @@
           "value": 84
         }
       ],
-      "total": 601
+      "total": 602
     },
     {
       "name": "Bogo",
@@ -78,10 +78,10 @@
         {
           "team": "Rangers",
           "stat": "Wins",
-          "value": 76
+          "value": 77
         }
       ],
-      "total": 586
+      "total": 587
     },
     {
       "name": "RT",
@@ -145,7 +145,7 @@
         {
           "team": "Mariners",
           "stat": "Wins",
-          "value": 71
+          "value": 72
         },
         {
           "team": "Braves",
@@ -163,7 +163,7 @@
           "value": 64
         }
       ],
-      "total": 523
+      "total": 524
     }
   ]
 }
