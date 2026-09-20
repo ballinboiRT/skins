@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 19, 2026 at 04:42 PM",
+  "updated": "Sep 19, 2026 at 06:03 PM",
   "people": [
     {
       "name": "Jared",
@@ -63,7 +63,7 @@
         {
           "team": "Athletics",
           "stat": "Losses",
-          "value": 93
+          "value": 94
         },
         {
           "team": "Blue Jays",
@@ -81,7 +81,7 @@
           "value": 77
         }
       ],
-      "total": 589
+      "total": 590
     },
     {
       "name": "RT",
@@ -119,10 +119,10 @@
         {
           "team": "Guardians",
           "stat": "Wins",
-          "value": 79
+          "value": 80
         }
       ],
-      "total": 548
+      "total": 549
     },
     {
       "name": "Nuney",
