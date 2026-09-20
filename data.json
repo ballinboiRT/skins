@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 19, 2026 at 06:50 PM",
+  "updated": "Sep 19, 2026 at 07:05 PM",
   "people": [
     {
       "name": "Jared",
@@ -150,7 +150,7 @@
         {
           "team": "Braves",
           "stat": "Wins",
-          "value": 90
+          "value": 91
         },
         {
           "team": "D-backs",
@@ -163,7 +163,7 @@
           "value": 64
         }
       ],
-      "total": 526
+      "total": 527
     }
   ]
 }
