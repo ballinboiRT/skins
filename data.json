@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 20, 2026 at 04:00 PM",
+  "updated": "Sep 20, 2026 at 07:16 PM",
   "people": [
     {
       "name": "Jared",
@@ -32,7 +32,7 @@
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 97
+          "value": 98
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 87
         }
       ],
-      "total": 610
+      "total": 611
     },
     {
       "name": "Bogo",
