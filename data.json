@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 23, 2026 at 01:15 PM",
+  "updated": "Sep 23, 2026 at 07:50 PM",
   "people": [
     {
       "name": "Jared",
@@ -27,12 +27,12 @@
         {
           "team": "Red Sox",
           "stat": "Wins",
-          "value": 84
+          "value": 85
         },
         {
           "team": "Brewers",
           "stat": "Wins",
-          "value": 98
+          "value": 99
         },
         {
           "team": "Padres",
@@ -40,7 +40,7 @@
           "value": 87
         }
       ],
-      "total": 614
+      "total": 616
     },
     {
       "name": "Bogo",
@@ -53,7 +53,7 @@
         {
           "team": "Yankees",
           "stat": "Wins",
-          "value": 90
+          "value": 91
         },
         {
           "team": "Phillies",
@@ -73,7 +73,7 @@
         {
           "team": "Orioles",
           "stat": "Wins",
-          "value": 77
+          "value": 78
         },
         {
           "team": "Rangers",
@@ -81,7 +81,7 @@
           "value": 78
         }
       ],
-      "total": 601
+      "total": 603
     },
     {
       "name": "RT",
@@ -104,12 +104,12 @@
         {
           "team": "Rays",
           "stat": "Losses",
-          "value": 61
+          "value": 62
         },
         {
           "team": "Pirates",
           "stat": "Losses",
-          "value": 77
+          "value": 78
         },
         {
           "team": "Astros",
@@ -122,7 +122,7 @@
           "value": 82
         }
       ],
-      "total": 559
+      "total": 561
     },
     {
       "name": "Nuney",
@@ -130,7 +130,7 @@
         {
           "team": "White Sox",
           "stat": "Losses",
-          "value": 76
+          "value": 77
         },
         {
           "team": "Cardinals",
@@ -140,7 +140,7 @@
         {
           "team": "Mets",
           "stat": "Wins",
-          "value": 72
+          "value": 73
         },
         {
           "team": "Mariners",
@@ -150,7 +150,7 @@
         {
           "team": "Braves",
           "stat": "Wins",
-          "value": 92
+          "value": 93
         },
         {
           "team": "D-backs",
@@ -163,7 +163,7 @@
           "value": 65
         }
       ],
-      "total": 533
+      "total": 536
     }
   ]
 }
