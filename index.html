@@ -513,6 +513,15 @@
     loadSport(sport);
   }
 
+  // ── Render ───────────────────────────────────────────────
+  function renderData(DATA) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('content').style.display = 'block';
+    document.getElementById('last-updated').textContent = 'Updated ' + DATA.updated;
+
+    const sorted = [...DATA.people].sort((a, b) => b.total - a.total);
+    const maxScore = sorted[0]?.total || 1;
+
     // Leaderboard
     const lb = document.getElementById('leaderboard');
     lb.innerHTML = '';
