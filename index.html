@@ -560,11 +560,12 @@
     const lb = document.getElementById('leaderboard');
     lb.innerHTML = '';
     sorted.forEach((p, i) => {
+    sorted.forEach((p, i) => {
       const pct = maxScore > 0 ? (p.total / maxScore * 100) : 0;
+      const rank = sorted.findIndex(x => x.total === p.total) + 1;
       lb.innerHTML += `
-        <div class="lb-row rank-${i+1}">
-          <div class="lb-rank">${i+1}</div>
-          <div class="lb-name">${p.name}</div>
+        <div class="lb-row rank-${rank}">
+          <div class="lb-rank">${rank}</div>
           <div class="lb-bar-wrap"><div class="lb-bar" style="width:${pct}%"></div></div>
           <div class="lb-score">${p.total}</div>
         </div>`;
