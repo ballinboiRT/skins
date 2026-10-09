@@ -90,29 +90,29 @@ def fetch_standings():
     data = make_request(STANDINGS_URL)
     teams = []
 
-    # ESPN standings: data["children"] = conferences, each has "children" = divisions
+    # ESPN standings: data["children"] = conferences (AFC, NFC)
+    # each conference has "standings" -> "entries" -> list of teams
     for conference in data.get("children", []):
-        for division in conference.get("children", []):
-            for entry in division.get("standings", {}).get("entries", []):
-                team_info = entry.get("team", {})
-                team_name = team_info.get("displayName", "")
-                short_name = team_info.get("shortDisplayName", "")  # e.g. "49ers"
-                nickname = team_info.get("name", "")                # e.g. "Bears"
+        for entry in conference.get("standings", {}).get("entries", []):
+            team_info = entry.get("team", {})
+            team_name = team_info.get("displayName", "")    # "San Francisco 49ers"
+            short_name = team_info.get("shortDisplayName", "")  # "49ers"
+            nickname   = team_info.get("name", "")              # "49ers"
 
-                wins = losses = 0
-                for stat in entry.get("stats", []):
-                    if stat.get("name") == "wins":
-                        wins = int(stat.get("value", 0))
-                    elif stat.get("name") == "losses":
-                        losses = int(stat.get("value", 0))
+            wins = losses = 0
+            for stat in entry.get("stats", []):
+                if stat.get("name") == "wins":
+                    wins = int(stat.get("value", 0))
+                elif stat.get("name") == "losses":
+                    losses = int(stat.get("value", 0))
 
-                teams.append({
-                    "name":       team_name,   # "San Francisco 49ers"
-                    "short":      short_name,  # "49ers"
-                    "nickname":   nickname,    # "49ers"
-                    "wins":       wins,
-                    "losses":     losses,
-                })
+            teams.append({
+                "name":     team_name,
+                "short":    short_name,
+                "nickname": nickname,
+                "wins":     wins,
+                "losses":   losses,
+            })
 
     return teams
 
