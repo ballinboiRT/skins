@@ -3,10 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Skins</title>
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-<link rel="apple-touch-icon" href="favicon.ico">
-<meta name="apple-mobile-web-app-capable" content="yes">
+  <title>Play Skins</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="shortcut icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet"/>
   <style>
     :root {
@@ -29,9 +30,120 @@
       padding: 0 0 60px;
       overflow-x: hidden;
     }
+
+    /* ── Nav Bar ── */
+    .navbar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 56px;
+      background: rgba(10,14,19,0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      z-index: 100;
+    }
+    .nav-logo {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 24px;
+      letter-spacing: 2px;
+      color: var(--text);
+    }
+    .nav-logo span { color: var(--accent); }
+    .hamburger {
+      width: 40px; height: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      cursor: pointer;
+      padding: 4px;
+      border-radius: 4px;
+      transition: background 0.2s;
+    }
+    .hamburger:hover { background: rgba(255,255,255,0.06); }
+    .hamburger span {
+      display: block;
+      height: 2px;
+      background: var(--text);
+      border-radius: 2px;
+      transition: all 0.3s;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    /* ── Drawer ── */
+    .drawer-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 200;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s;
+    }
+    .drawer-overlay.open { opacity: 1; pointer-events: all; }
+    .drawer {
+      position: fixed;
+      top: 0; right: 0;
+      width: 260px;
+      height: 100%;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      z-index: 300;
+      padding: 72px 0 32px;
+      transform: translateX(100%);
+      transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .drawer.open { transform: translateX(0); }
+    .drawer-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 0 24px 12px;
+    }
+    .drawer-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 24px;
+      cursor: pointer;
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      transition: background 0.15s;
+      border-left: 3px solid transparent;
+    }
+    .drawer-item:hover { background: rgba(255,255,255,0.04); }
+    .drawer-item.active {
+      color: var(--accent);
+      border-left-color: var(--accent);
+      background: rgba(200,240,0,0.05);
+    }
+    .drawer-item.soon {
+      color: var(--muted);
+      cursor: default;
+    }
+    .drawer-item .badge {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 1px;
+      color: var(--muted);
+      background: var(--border);
+      padding: 2px 7px;
+      border-radius: 2px;
+      text-transform: uppercase;
+    }
+
+    /* ── Header ── */
     header {
       position: relative;
-      padding: 48px 32px 36px;
+      padding: 92px 32px 36px;
       border-bottom: 1px solid var(--border);
       overflow: hidden;
     }
@@ -76,6 +188,41 @@
       line-height: 1.8;
     }
     .meta strong { color: var(--accent2); }
+
+    /* ── Tabs ── */
+    .sport-tabs {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 24px 24px 0;
+      display: flex;
+      gap: 8px;
+    }
+    .sport-tab {
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 8px 16px;
+      border-radius: 3px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .sport-tab:hover { color: var(--text); border-color: var(--muted); }
+    .sport-tab.active {
+      background: var(--accent);
+      color: #0a0e13;
+      border-color: var(--accent);
+      font-weight: 700;
+    }
+    .sport-tab.soon {
+      opacity: 0.4;
+      cursor: default;
+    }
+
+    /* ── Main content ── */
     main {
       max-width: 1000px;
       margin: 0 auto;
@@ -144,7 +291,9 @@
     }
     .lb-row.rank-2 .lb-bar { background: var(--accent2); }
     .lb-row.rank-3 .lb-bar { background: #f0a000; }
-    .lb-row.rank-4 .lb-bar { background: var(--muted); }
+    .lb-row.rank-4 .lb-bar, .lb-row.rank-5 .lb-bar,
+    .lb-row.rank-6 .lb-bar, .lb-row.rank-7 .lb-bar,
+    .lb-row.rank-8 .lb-bar { background: var(--muted); }
     .lb-score {
       font-family: 'Bebas Neue', sans-serif;
       font-size: 32px;
@@ -217,6 +366,32 @@
     }
     .pill-win  { background: rgba(200,240,0,0.12); color: var(--win); }
     .pill-loss { background: rgba(240,80,96,0.12); color: var(--loss); }
+
+    /* ── Coming Soon ── */
+    .coming-soon {
+      text-align: center;
+      padding: 80px 20px;
+    }
+    .coming-soon-icon {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 80px;
+      color: var(--border);
+      line-height: 1;
+      margin-bottom: 16px;
+    }
+    .coming-soon h2 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 36px;
+      color: var(--muted);
+      letter-spacing: 3px;
+      margin-bottom: 8px;
+    }
+    .coming-soon p {
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
     footer {
       text-align: center;
       padding-top: 48px;
@@ -239,11 +414,42 @@
 </head>
 <body>
 
+<!-- Nav Bar -->
+<nav class="navbar">
+  <div class="nav-logo">PLAY<span>SKINS</span></div>
+  <div class="hamburger" id="hamburger" onclick="toggleDrawer()">
+    <span></span><span></span><span></span>
+  </div>
+</nav>
+
+<!-- Drawer Overlay -->
+<div class="drawer-overlay" id="drawerOverlay" onclick="closeDrawer()"></div>
+
+<!-- Drawer -->
+<div class="drawer" id="drawer">
+  <div class="drawer-label">Select Sport</div>
+  <div class="drawer-item active" id="drawer-mlb" onclick="switchSport('mlb')">⚾ MLB</div>
+  <div class="drawer-item" id="drawer-nfl" onclick="switchSport('nfl')">🏈 NFL</div>
+  <div class="drawer-item soon" id="drawer-nba">🏀 NBA <span class="badge">Soon</span></div>
+</div>
+
+<!-- Header -->
 <header>
   <div class="header-inner">
-    <h1>MLB<span> Skins</span> 2026</h1>
+    <h1 id="sport-title">MLB<br/><span>Skins</span><br/>2026</h1>
+    <div class="meta">
+      <strong id="last-updated">Loading...</strong><br/>
+      <span id="season-label">Regular Season</span>
+    </div>
   </div>
 </header>
+
+<!-- Sport Tabs (inline, below header) -->
+<div class="sport-tabs">
+  <button class="sport-tab active" id="tab-mlb" onclick="switchSport('mlb')">⚾ MLB</button>
+  <button class="sport-tab" id="tab-nfl" onclick="switchSport('nfl')">🏈 NFL</button>
+  <button class="sport-tab soon" id="tab-nba" title="Coming soon">🏀 NBA</button>
+</div>
 
 <main>
   <div id="loading" class="loading">Fetching standings...</div>
@@ -254,62 +460,127 @@
     <div class="section-label">Full Breakdown</div>
     <div class="breakdowns" id="breakdowns"></div>
   </div>
+
+  <div id="coming-soon" class="coming-soon" style="display:none">
+    <div class="coming-soon-icon">🏀</div>
+    <h2>NBA Coming Soon</h2>
+    <p>Check back when the season starts.</p>
+  </div>
 </main>
 
 <footer>
-  Data via MLB Stats API &nbsp;·&nbsp; ballinboiRT/skins
-  <br/><br/><strong id="last-updated">Loading...</strong>
+  Data via MLB Stats API &amp; ESPN API &nbsp;·&nbsp; ballinboiRT/skins
 </footer>
 
 <script>
-  fetch('data.json?nocache=' + Date.now())
-    .then(r => r.json())
-    .then(DATA => {
-      document.getElementById('loading').style.display = 'none';
-      document.getElementById('content').style.display = 'block';
-      document.getElementById('last-updated').textContent = 'Updated ' + DATA.updated;
+  let currentSport = 'mlb';
 
-      const sorted = [...DATA.people].sort((a, b) => b.total - a.total);
-      const maxScore = sorted[0].total;
+  // ── Drawer ──────────────────────────────────────────────
+  function toggleDrawer() {
+    const open = document.getElementById('drawer').classList.toggle('open');
+    document.getElementById('drawerOverlay').classList.toggle('open', open);
+    document.getElementById('hamburger').classList.toggle('open', open);
+  }
+  function closeDrawer() {
+    document.getElementById('drawer').classList.remove('open');
+    document.getElementById('drawerOverlay').classList.remove('open');
+    document.getElementById('hamburger').classList.remove('open');
+  }
 
-      // Leaderboard
-      const lb = document.getElementById('leaderboard');
-      sorted.forEach((p, i) => {
-        const pct = maxScore > 0 ? (p.total / maxScore * 100) : 0;
-        lb.innerHTML += `
-          <div class="lb-row rank-${i+1}">
-            <div class="lb-rank">${i+1}</div>
-            <div class="lb-name">${p.name}</div>
-            <div class="lb-bar-wrap"><div class="lb-bar" style="width:${pct}%"></div></div>
-            <div class="lb-score">${p.total}</div>
-          </div>`;
-      });
+  // ── Sport Switch ─────────────────────────────────────────
+  function switchSport(sport) {
+    if (sport === 'nba') return;
+    closeDrawer();
+    currentSport = sport;
 
-      // Breakdowns
-      const bd = document.getElementById('breakdowns');
-      sorted.forEach(p => {
-        const rows = p.teams.map(t => `
-          <tr>
-            <td>${t.team}</td>
-            <td><span class="pill pill-${t.stat === 'Wins' ? 'win' : 'loss'}">${t.stat}</span></td>
-            <td>${t.value}</td>
-          </tr>`).join('');
-        bd.innerHTML += `
-          <div class="card">
-            <div class="card-header">
-              <div class="card-name">${p.name}</div>
-              <div class="card-total">${p.total}</div>
-            </div>
-            <table>
-              <thead><tr><th>Team</th><th>Stat</th><th>Count</th></tr></thead>
-              <tbody>${rows}</tbody>
-            </table>
-          </div>`;
-      });
-    })
-    .catch(() => {
-      document.getElementById('loading').textContent = 'Error loading data. Please try again later.';
+    // Update tabs
+    ['mlb','nfl','nba'].forEach(s => {
+      document.getElementById('tab-' + s)?.classList.toggle('active', s === sport);
+      const di = document.getElementById('drawer-' + s);
+      if (di) di.classList.toggle('active', s === sport);
     });
+
+    // Update header
+    const titles = { mlb: 'MLB<br/><span>Skins</span><br/>2026', nfl: 'NFL<br/><span>Skins</span><br/>2026' };
+    document.getElementById('sport-title').innerHTML = titles[sport] || '';
+
+    // Show/hide
+    document.getElementById('coming-soon').style.display = 'none';
+    document.getElementById('content').style.display = 'none';
+    document.getElementById('loading').style.display = 'none';
+
+    if (sport === 'nba') {
+      document.getElementById('coming-soon').style.display = 'block';
+      return;
+    }
+
+    loadSport(sport);
+  }
+
+  // ── Render ───────────────────────────────────────────────
+  function renderData(DATA) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('content').style.display = 'block';
+    document.getElementById('last-updated').textContent = 'Updated ' + DATA.updated;
+
+    const sorted = [...DATA.people].sort((a, b) => b.total - a.total);
+    const maxScore = sorted[0]?.total || 1;
+
+    // Leaderboard
+    const lb = document.getElementById('leaderboard');
+    lb.innerHTML = '';
+    sorted.forEach((p, i) => {
+      const pct = maxScore > 0 ? (p.total / maxScore * 100) : 0;
+      lb.innerHTML += `
+        <div class="lb-row rank-${i+1}">
+          <div class="lb-rank">${i+1}</div>
+          <div class="lb-name">${p.name}</div>
+          <div class="lb-bar-wrap"><div class="lb-bar" style="width:${pct}%"></div></div>
+          <div class="lb-score">${p.total}</div>
+        </div>`;
+    });
+
+    // Breakdowns
+    const bd = document.getElementById('breakdowns');
+    bd.innerHTML = '';
+    sorted.forEach(p => {
+      const rows = p.teams.map(t => `
+        <tr>
+          <td>${t.team}</td>
+          <td><span class="pill pill-${t.stat === 'Wins' ? 'win' : 'loss'}">${t.stat}</span></td>
+          <td>${t.value}</td>
+        </tr>`).join('');
+      bd.innerHTML += `
+        <div class="card">
+          <div class="card-header">
+            <div class="card-name">${p.name}</div>
+            <div class="card-total">${p.total}</div>
+          </div>
+          <table>
+            <thead><tr><th>Team</th><th>Stat</th><th>Count</th></tr></thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>`;
+    });
+  }
+
+  // ── Load ─────────────────────────────────────────────────
+  function loadSport(sport) {
+    const file = sport === 'nfl' ? 'nfl_data.json' : 'data.json';
+    document.getElementById('loading').style.display = 'block';
+    document.getElementById('loading').textContent = 'Fetching standings...';
+    document.getElementById('content').style.display = 'none';
+
+    fetch(file + '?nocache=' + Date.now())
+      .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
+      .then(renderData)
+      .catch(() => {
+        document.getElementById('loading').textContent = 'Error loading data. Please try again later.';
+      });
+  }
+
+  // ── Init ─────────────────────────────────────────────────
+  loadSport('mlb');
 </script>
 </body>
 </html>
