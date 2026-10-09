@@ -1,0 +1,213 @@
+{
+  "updated": "Oct 09, 2026 at 01:39 PM",
+  "people": [
+    {
+      "name": "Mickey",
+      "teams": [
+        {
+          "team": "Arizona Cardinals",
+          "stat": "Losses",
+          "value": 3
+        },
+        {
+          "team": "New Orleans Saints",
+          "stat": "Losses",
+          "value": 3
+        },
+        {
+          "team": "New England Patriots",
+          "stat": "Wins",
+          "value": 2
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "stat": "Wins",
+          "value": 2
+        }
+      ],
+      "total": 10
+    },
+    {
+      "name": "John",
+      "teams": [
+        {
+          "team": "Miami Dolphins",
+          "stat": "Losses",
+          "value": 4
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Dallas Cowboys",
+          "stat": "Wins",
+          "value": 2
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "stat": "Wins",
+          "value": 1
+        }
+      ],
+      "total": 7
+    },
+    {
+      "name": "Paul I",
+      "teams": [
+        {
+          "team": "Los Angeles Rams",
+          "stat": "Wins",
+          "value": 2
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "stat": "Wins",
+          "value": 2
+        },
+        {
+          "team": "San Francisco 49ers",
+          "stat": "Wins",
+          "value": 4
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "stat": "Wins",
+          "value": 3
+        }
+      ],
+      "total": 11
+    },
+    {
+      "name": "Jared",
+      "teams": [
+        {
+          "team": "Cleveland Browns",
+          "stat": "Losses",
+          "value": 1
+        },
+        {
+          "team": "Houston Texans",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Denver Broncos",
+          "stat": "Wins",
+          "value": 2
+        },
+        {
+          "team": "Green Bay Packers",
+          "stat": "Wins",
+          "value": 2
+        }
+      ],
+      "total": 5
+    },
+    {
+      "name": "Bogo",
+      "teams": [
+        {
+          "team": "Baltimore Ravens",
+          "stat": "Wins",
+          "value": 3
+        },
+        {
+          "team": "Seattle Seahawks",
+          "stat": "Wins",
+          "value": 3
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "stat": "Wins",
+          "value": 2
+        },
+        {
+          "team": "Chicago Bears",
+          "stat": "Wins",
+          "value": 3
+        }
+      ],
+      "total": 11
+    },
+    {
+      "name": "Daniel",
+      "teams": [
+        {
+          "team": "Las Vegas Raiders",
+          "stat": "Losses",
+          "value": 1
+        },
+        {
+          "team": "Detroit Lions",
+          "stat": "Wins",
+          "value": 2
+        },
+        {
+          "team": "Carolina Panthers",
+          "stat": "Losses",
+          "value": 2
+        },
+        {
+          "team": "Indianapolis Colts",
+          "stat": "Wins",
+          "value": 2
+        }
+      ],
+      "total": 7
+    },
+    {
+      "name": "Ryan N",
+      "teams": [
+        {
+          "team": "New York Jets",
+          "stat": "Losses",
+          "value": 3
+        },
+        {
+          "team": "Atlanta Falcons",
+          "stat": "Losses",
+          "value": 2
+        },
+        {
+          "team": "Washington Commanders",
+          "stat": "Losses",
+          "value": 3
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "stat": "Wins",
+          "value": 4
+        }
+      ],
+      "total": 12
+    },
+    {
+      "name": "Ryan T",
+      "teams": [
+        {
+          "team": "Buffalo Bills",
+          "stat": "Wins",
+          "value": 3
+        },
+        {
+          "team": "Tennessee Titans",
+          "stat": "Losses",
+          "value": 4
+        },
+        {
+          "team": "New York Giants",
+          "stat": "Losses",
+          "value": 1
+        },
+        {
+          "team": "Minnesota Vikings",
+          "stat": "Losses",
+          "value": 0
+        }
+      ],
+      "total": 8
+    }
+  ]
+}
