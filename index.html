@@ -437,10 +437,6 @@
 <header>
   <div class="header-inner">
     <h1 id="sport-title">MLB<span> Skins</span> 2026</h1>
-    <div class="meta">
-      <strong id="last-updated">Loading...</strong><br/>
-      <span id="season-label">Regular Season</span>
-    </div>
   </div>
 </header>
 
@@ -516,15 +512,6 @@
 
     loadSport(sport);
   }
-
-  // ── Render ───────────────────────────────────────────────
-  function renderData(DATA) {
-    document.getElementById('loading').style.display = 'none';
-    document.getElementById('content').style.display = 'block';
-    document.getElementById('last-updated').textContent = 'Updated ' + DATA.updated;
-
-    const sorted = [...DATA.people].sort((a, b) => b.total - a.total);
-    const maxScore = sorted[0]?.total || 1;
 
     // Leaderboard
     const lb = document.getElementById('leaderboard');
