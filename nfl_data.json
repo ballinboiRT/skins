@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 09, 2026 at 01:39 PM",
+  "updated": "Oct 11, 2026 at 01:03 PM",
   "people": [
     {
       "name": "Mickey",
@@ -12,7 +12,7 @@
         {
           "team": "New Orleans Saints",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "New England Patriots",
@@ -25,7 +25,7 @@
           "value": 2
         }
       ],
-      "total": 10
+      "total": 11
     },
     {
       "name": "John",
@@ -74,10 +74,10 @@
         {
           "team": "Jacksonville Jaguars",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         }
       ],
-      "total": 11
+      "total": 12
     },
     {
       "name": "Jared",
@@ -90,7 +90,7 @@
         {
           "team": "Houston Texans",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Denver Broncos",
@@ -103,7 +103,7 @@
           "value": 2
         }
       ],
-      "total": 5
+      "total": 6
     },
     {
       "name": "Bogo",
@@ -194,7 +194,7 @@
         {
           "team": "Tennessee Titans",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "New York Giants",
@@ -207,7 +207,7 @@
           "value": 0
         }
       ],
-      "total": 8
+      "total": 9
     }
   ]
 }
