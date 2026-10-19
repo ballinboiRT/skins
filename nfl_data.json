@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 11, 2026 at 01:03 PM",
+  "updated": "Oct 19, 2026 at 12:04 PM",
   "people": [
     {
       "name": "Mickey",
@@ -7,7 +7,7 @@
         {
           "team": "Arizona Cardinals",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "New Orleans Saints",
@@ -17,15 +17,15 @@
         {
           "team": "New England Patriots",
           "stat": "Wins",
-          "value": 2
+          "value": 4
         },
         {
           "team": "Pittsburgh Steelers",
           "stat": "Wins",
-          "value": 2
+          "value": 4
         }
       ],
-      "total": 11
+      "total": 16
     },
     {
       "name": "John",
@@ -33,7 +33,7 @@
         {
           "team": "Miami Dolphins",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Los Angeles Chargers",
@@ -51,7 +51,7 @@
           "value": 1
         }
       ],
-      "total": 7
+      "total": 8
     },
     {
       "name": "Paul I",
@@ -69,7 +69,7 @@
         {
           "team": "San Francisco 49ers",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Jacksonville Jaguars",
@@ -77,7 +77,7 @@
           "value": 4
         }
       ],
-      "total": 12
+      "total": 13
     },
     {
       "name": "Jared",
@@ -85,25 +85,25 @@
         {
           "team": "Cleveland Browns",
           "stat": "Losses",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Houston Texans",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Denver Broncos",
           "stat": "Wins",
-          "value": 2
+          "value": 4
         },
         {
           "team": "Green Bay Packers",
           "stat": "Wins",
-          "value": 2
+          "value": 4
         }
       ],
-      "total": 6
+      "total": 12
     },
     {
       "name": "Bogo",
@@ -111,7 +111,7 @@
         {
           "team": "Baltimore Ravens",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Seattle Seahawks",
@@ -121,15 +121,15 @@
         {
           "team": "Cincinnati Bengals",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Chicago Bears",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         }
       ],
-      "total": 11
+      "total": 14
     },
     {
       "name": "Daniel",
@@ -137,12 +137,12 @@
         {
           "team": "Las Vegas Raiders",
           "stat": "Losses",
-          "value": 1
+          "value": 3
         },
         {
           "team": "Detroit Lions",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Carolina Panthers",
@@ -155,7 +155,7 @@
           "value": 2
         }
       ],
-      "total": 7
+      "total": 10
     },
     {
       "name": "Ryan N",
@@ -163,12 +163,12 @@
         {
           "team": "New York Jets",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Atlanta Falcons",
           "stat": "Losses",
-          "value": 2
+          "value": 4
         },
         {
           "team": "Washington Commanders",
@@ -178,10 +178,10 @@
         {
           "team": "Kansas City Chiefs",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         }
       ],
-      "total": 12
+      "total": 16
     },
     {
       "name": "Ryan T",
@@ -189,7 +189,7 @@
         {
           "team": "Buffalo Bills",
           "stat": "Wins",
-          "value": 3
+          "value": 5
         },
         {
           "team": "Tennessee Titans",
@@ -199,7 +199,7 @@
         {
           "team": "New York Giants",
           "stat": "Losses",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Minnesota Vikings",
@@ -207,7 +207,7 @@
           "value": 0
         }
       ],
-      "total": 9
+      "total": 12
     }
   ]
 }
