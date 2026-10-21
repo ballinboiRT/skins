@@ -1,0 +1,191 @@
+{
+  "updated": "Oct 20, 2026 at 09:23 PM",
+  "people": [
+    {
+      "name": "Nuney",
+      "teams": [
+        {
+          "team": "Sacramento Kings",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Boston Celtics",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Philadelphia 76ers",
+          "stat": "Wins",
+          "value": 1
+        },
+        {
+          "team": "Charlotte Hornets",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Golden State Warriors",
+          "stat": "Losses",
+          "value": 0
+        }
+      ],
+      "total": 1
+    },
+    {
+      "name": "Mickey",
+      "teams": [
+        {
+          "team": "Brooklyn Nets",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Chicago Bulls",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Memphis Grizzlies",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Utah Jazz",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Orlando Magic",
+          "stat": "Losses",
+          "value": 0
+        }
+      ],
+      "total": 0
+    },
+    {
+      "name": "Jared",
+      "teams": [
+        {
+          "team": "Oklahoma City Thunder",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "New Orleans Pelicans",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Cleveland Cavaliers",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Dallas Mavericks",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Washington Wizards",
+          "stat": "Losses",
+          "value": 0
+        }
+      ],
+      "total": 0
+    },
+    {
+      "name": "Bogo",
+      "teams": [
+        {
+          "team": "San Antonio Spurs",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "New York Knicks",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Detroit Pistons",
+          "stat": "Wins",
+          "value": 1
+        },
+        {
+          "team": "Miami Heat",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Atlanta Hawks",
+          "stat": "Wins",
+          "value": 0
+        }
+      ],
+      "total": 1
+    },
+    {
+      "name": "RT",
+      "teams": [
+        {
+          "team": "Milwaukee Bucks",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "LA Clippers",
+          "stat": "Losses",
+          "value": 0
+        },
+        {
+          "team": "Houston Rockets",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Toronto Raptors",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Phoenix Suns",
+          "stat": "Losses",
+          "value": 0
+        }
+      ],
+      "total": 0
+    },
+    {
+      "name": "John",
+      "teams": [
+        {
+          "team": "Denver Nuggets",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Los Angeles Lakers",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Minnesota Timberwolves",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Indiana Pacers",
+          "stat": "Wins",
+          "value": 0
+        },
+        {
+          "team": "Portland Trail Blazers",
+          "stat": "Losses",
+          "value": 0
+        }
+      ],
+      "total": 0
+    }
+  ]
+}
