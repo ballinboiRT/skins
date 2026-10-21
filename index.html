@@ -541,12 +541,6 @@
     document.getElementById('loading').style.display = 'none';
     document.getElementById('nba-panel').style.display = 'none';
 
-    if (sport === 'nba') {
-      document.getElementById('last-updated').textContent = 'Season not started';
-      document.getElementById('nba-panel').style.display = 'block';
-      return;
-    }
-
     loadSport(sport);
   }
 
@@ -596,7 +590,7 @@
   }
 
   function loadSport(sport) {
-    const file = sport === 'nfl' ? 'nfl_data.json' : 'data.json';
+    const file = sport === 'nfl' ? 'nfl_data.json' : sport === 'nba' ? 'nba_data.json' : 'data.json';
     document.getElementById('loading').style.display = 'block';
     document.getElementById('loading').textContent = 'Fetching standings...';
     document.getElementById('content').style.display = 'none';
