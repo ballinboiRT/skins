@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 21, 2026 at 06:58 PM",
+  "updated": "Oct 21, 2026 at 08:20 PM",
   "people": [
     {
       "name": "Nuney",
@@ -38,12 +38,12 @@
         {
           "team": "Brooklyn Nets",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Chicago Bulls",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Memphis Grizzlies",
@@ -53,7 +53,7 @@
         {
           "team": "Utah Jazz",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Orlando Magic",
@@ -61,7 +61,7 @@
           "value": 0
         }
       ],
-      "total": 0
+      "total": 3
     },
     {
       "name": "Jared",
@@ -74,7 +74,7 @@
         {
           "team": "New Orleans Pelicans",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Cleveland Cavaliers",
@@ -84,7 +84,7 @@
         {
           "team": "Dallas Mavericks",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Washington Wizards",
@@ -92,7 +92,7 @@
           "value": 0
         }
       ],
-      "total": 1
+      "total": 3
     },
     {
       "name": "Bogo",
@@ -141,12 +141,12 @@
         {
           "team": "Houston Rockets",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Toronto Raptors",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Phoenix Suns",
@@ -154,7 +154,7 @@
           "value": 0
         }
       ],
-      "total": 1
+      "total": 3
     },
     {
       "name": "John",
@@ -172,12 +172,12 @@
         {
           "team": "Minnesota Timberwolves",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Indiana Pacers",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Portland Trail Blazers",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 0
+      "total": 2
     }
   ]
 }
