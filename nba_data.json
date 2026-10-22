@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 21, 2026 at 09:30 PM",
+  "updated": "Oct 21, 2026 at 09:45 PM",
   "people": [
     {
       "name": "Nuney",
@@ -27,10 +27,10 @@
         {
           "team": "Golden State Warriors",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         }
       ],
-      "total": 1
+      "total": 2
     },
     {
       "name": "Mickey",
@@ -167,7 +167,7 @@
         {
           "team": "Los Angeles Lakers",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Minnesota Timberwolves",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 2
+      "total": 3
     }
   ]
 }
