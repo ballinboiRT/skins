@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 21, 2026 at 09:45 PM",
+  "updated": "Oct 21, 2026 at 10:05 PM",
   "people": [
     {
       "name": "Nuney",
@@ -7,7 +7,7 @@
         {
           "team": "Sacramento Kings",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Boston Celtics",
@@ -30,7 +30,7 @@
           "value": 1
         }
       ],
-      "total": 2
+      "total": 3
     },
     {
       "name": "Mickey",
