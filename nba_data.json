@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 22, 2026 at 11:20 PM",
+  "updated": "Oct 23, 2026 at 04:25 PM",
   "people": [
     {
       "name": "Nuney",
@@ -131,7 +131,7 @@
         {
           "team": "Milwaukee Bucks",
           "stat": "Losses",
-          "value": 1
+          "value": 2
         },
         {
           "team": "LA Clippers",
@@ -154,7 +154,7 @@
           "value": 1
         }
       ],
-      "total": 4
+      "total": 5
     },
     {
       "name": "John",
