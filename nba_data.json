@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 23, 2026 at 04:25 PM",
+  "updated": "Oct 23, 2026 at 07:00 PM",
   "people": [
     {
       "name": "Nuney",
@@ -12,7 +12,7 @@
         {
           "team": "Boston Celtics",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Philadelphia 76ers",
@@ -22,7 +22,7 @@
         {
           "team": "Charlotte Hornets",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Golden State Warriors",
@@ -30,7 +30,7 @@
           "value": 1
         }
       ],
-      "total": 4
+      "total": 6
     },
     {
       "name": "Mickey",
@@ -89,10 +89,10 @@
         {
           "team": "Washington Wizards",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         }
       ],
-      "total": 4
+      "total": 5
     },
     {
       "name": "Bogo",
@@ -120,10 +120,10 @@
         {
           "team": "Atlanta Hawks",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         }
       ],
-      "total": 2
+      "total": 3
     },
     {
       "name": "RT",
@@ -146,7 +146,7 @@
         {
           "team": "Toronto Raptors",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Phoenix Suns",
@@ -154,7 +154,7 @@
           "value": 1
         }
       ],
-      "total": 5
+      "total": 6
     },
     {
       "name": "John",
@@ -172,7 +172,7 @@
         {
           "team": "Minnesota Timberwolves",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Indiana Pacers",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 3
+      "total": 4
     }
   ]
 }
