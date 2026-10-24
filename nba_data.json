@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 23, 2026 at 07:00 PM",
+  "updated": "Oct 23, 2026 at 07:43 PM",
   "people": [
     {
       "name": "Nuney",
@@ -110,7 +110,7 @@
         {
           "team": "Detroit Pistons",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Miami Heat",
@@ -123,7 +123,7 @@
           "value": 2
         }
       ],
-      "total": 3
+      "total": 4
     },
     {
       "name": "RT",
