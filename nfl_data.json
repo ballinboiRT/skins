@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 25, 2026 at 12:01 PM",
+  "updated": "Oct 25, 2026 at 02:05 PM",
   "people": [
     {
       "name": "Mickey",
@@ -48,10 +48,10 @@
         {
           "team": "Tampa Bay Buccaneers",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         }
       ],
-      "total": 8
+      "total": 9
     },
     {
       "name": "Paul I",
@@ -121,7 +121,7 @@
         {
           "team": "Cincinnati Bengals",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Chicago Bears",
@@ -129,7 +129,7 @@
           "value": 5
         }
       ],
-      "total": 15
+      "total": 16
     },
     {
       "name": "Daniel",
@@ -147,7 +147,7 @@
         {
           "team": "Carolina Panthers",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Indianapolis Colts",
@@ -155,7 +155,7 @@
           "value": 2
         }
       ],
-      "total": 10
+      "total": 11
     },
     {
       "name": "Ryan N",
@@ -163,7 +163,7 @@
         {
           "team": "New York Jets",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Atlanta Falcons",
@@ -181,7 +181,7 @@
           "value": 5
         }
       ],
-      "total": 17
+      "total": 18
     },
     {
       "name": "Ryan T",
@@ -194,7 +194,7 @@
         {
           "team": "Tennessee Titans",
           "stat": "Losses",
-          "value": 5
+          "value": 6
         },
         {
           "team": "New York Giants",
@@ -207,7 +207,7 @@
           "value": 0
         }
       ],
-      "total": 12
+      "total": 13
     }
   ]
 }
