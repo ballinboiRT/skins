@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 22, 2026 at 08:25 PM",
+  "updated": "Oct 25, 2026 at 12:01 PM",
   "people": [
     {
       "name": "Mickey",
@@ -12,7 +12,7 @@
         {
           "team": "New Orleans Saints",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "New England Patriots",
@@ -22,10 +22,10 @@
         {
           "team": "Pittsburgh Steelers",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         }
       ],
-      "total": 16
+      "total": 18
     },
     {
       "name": "John",
