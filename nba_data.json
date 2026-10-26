@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 25, 2026 at 06:07 PM",
+  "updated": "Oct 25, 2026 at 06:45 PM",
   "people": [
     {
       "name": "Nuney",
@@ -58,10 +58,10 @@
         {
           "team": "Orlando Magic",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         }
       ],
-      "total": 7
+      "total": 8
     },
     {
       "name": "Jared",
@@ -69,7 +69,7 @@
         {
           "team": "Oklahoma City Thunder",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "New Orleans Pelicans",
@@ -92,7 +92,7 @@
           "value": 1
         }
       ],
-      "total": 9
+      "total": 10
     },
     {
       "name": "Bogo",
@@ -136,7 +136,7 @@
         {
           "team": "LA Clippers",
           "stat": "Losses",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Houston Rockets",
@@ -154,7 +154,7 @@
           "value": 1
         }
       ],
-      "total": 10
+      "total": 11
     },
     {
       "name": "John",
@@ -172,7 +172,7 @@
         {
           "team": "Minnesota Timberwolves",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Indiana Pacers",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 8
+      "total": 9
     }
   ]
 }
