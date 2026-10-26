@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 24, 2026 at 09:40 PM",
+  "updated": "Oct 25, 2026 at 05:25 PM",
   "people": [
     {
       "name": "Nuney",
@@ -53,7 +53,7 @@
         {
           "team": "Utah Jazz",
           "stat": "Losses",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Orlando Magic",
@@ -61,7 +61,7 @@
           "value": 0
         }
       ],
-      "total": 5
+      "total": 6
     },
     {
       "name": "Jared",
@@ -167,7 +167,7 @@
         {
           "team": "Los Angeles Lakers",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Minnesota Timberwolves",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 6
+      "total": 7
     }
   ]
 }
