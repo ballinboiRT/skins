@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 25, 2026 at 05:25 PM",
+  "updated": "Oct 25, 2026 at 06:07 PM",
   "people": [
     {
       "name": "Nuney",
@@ -38,7 +38,7 @@
         {
           "team": "Brooklyn Nets",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Chicago Bulls",
@@ -61,7 +61,7 @@
           "value": 0
         }
       ],
-      "total": 6
+      "total": 7
     },
     {
       "name": "Jared",
@@ -177,7 +177,7 @@
         {
           "team": "Indiana Pacers",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Portland Trail Blazers",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 7
+      "total": 8
     }
   ]
 }
