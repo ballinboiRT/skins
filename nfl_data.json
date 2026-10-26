@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 25, 2026 at 02:05 PM",
+  "updated": "Oct 25, 2026 at 05:25 PM",
   "people": [
     {
       "name": "Mickey",
@@ -7,7 +7,7 @@
         {
           "team": "Arizona Cardinals",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "New Orleans Saints",
@@ -25,7 +25,7 @@
           "value": 5
         }
       ],
-      "total": 18
+      "total": 19
     },
     {
       "name": "John",
@@ -59,7 +59,7 @@
         {
           "team": "Los Angeles Rams",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Philadelphia Eagles",
@@ -77,7 +77,7 @@
           "value": 4
         }
       ],
-      "total": 14
+      "total": 15
     },
     {
       "name": "Jared",
@@ -95,7 +95,7 @@
         {
           "team": "Denver Broncos",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Green Bay Packers",
@@ -103,7 +103,7 @@
           "value": 4
         }
       ],
-      "total": 12
+      "total": 13
     },
     {
       "name": "Bogo",
@@ -137,12 +137,12 @@
         {
           "team": "Las Vegas Raiders",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Detroit Lions",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Carolina Panthers",
@@ -155,7 +155,7 @@
           "value": 2
         }
       ],
-      "total": 11
+      "total": 13
     },
     {
       "name": "Ryan N",
