@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 26, 2026 at 09:26 AM",
+  "updated": "Oct 26, 2026 at 08:35 PM",
   "people": [
     {
       "name": "Mickey",
@@ -43,7 +43,7 @@
         {
           "team": "Dallas Cowboys",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Tampa Bay Buccaneers",
@@ -51,7 +51,7 @@
           "value": 2
         }
       ],
-      "total": 9
+      "total": 10
     },
     {
       "name": "Paul I",
