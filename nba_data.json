@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 27, 2026 at 07:58 AM",
+  "updated": "Oct 27, 2026 at 08:00 PM",
   "people": [
     {
       "name": "Nuney",
@@ -7,12 +7,12 @@
         {
           "team": "Sacramento Kings",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Boston Celtics",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Philadelphia 76ers",
@@ -30,7 +30,7 @@
           "value": 3
         }
       ],
-      "total": 12
+      "total": 14
     },
     {
       "name": "Mickey",
@@ -38,7 +38,7 @@
         {
           "team": "Brooklyn Nets",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Chicago Bulls",
@@ -61,7 +61,7 @@
           "value": 1
         }
       ],
-      "total": 10
+      "total": 11
     },
     {
       "name": "Jared",
@@ -100,12 +100,12 @@
         {
           "team": "San Antonio Spurs",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "New York Knicks",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Detroit Pistons",
@@ -123,7 +123,7 @@
           "value": 2
         }
       ],
-      "total": 6
+      "total": 8
     },
     {
       "name": "RT",
