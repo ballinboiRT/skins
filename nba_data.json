@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 28, 2026 at 08:39 PM",
+  "updated": "Oct 28, 2026 at 10:25 PM",
   "people": [
     {
       "name": "Nuney",
@@ -136,7 +136,7 @@
         {
           "team": "LA Clippers",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Houston Rockets",
@@ -154,7 +154,7 @@
           "value": 2
         }
       ],
-      "total": 16
+      "total": 17
     },
     {
       "name": "John",
@@ -167,7 +167,7 @@
         {
           "team": "Los Angeles Lakers",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Minnesota Timberwolves",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 10
+      "total": 11
     }
   ]
 }
