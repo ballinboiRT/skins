@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 28, 2026 at 06:59 PM",
+  "updated": "Oct 28, 2026 at 07:09 PM",
   "people": [
     {
       "name": "Nuney",
@@ -146,7 +146,7 @@
         {
           "team": "Toronto Raptors",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Phoenix Suns",
@@ -154,7 +154,7 @@
           "value": 2
         }
       ],
-      "total": 13
+      "total": 14
     },
     {
       "name": "John",
