@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 28, 2026 at 07:39 PM",
+  "updated": "Oct 28, 2026 at 08:39 PM",
   "people": [
     {
       "name": "Nuney",
@@ -53,7 +53,7 @@
         {
           "team": "Utah Jazz",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Orlando Magic",
@@ -61,7 +61,7 @@
           "value": 1
         }
       ],
-      "total": 12
+      "total": 13
     },
     {
       "name": "Jared",
@@ -100,7 +100,7 @@
         {
           "team": "San Antonio Spurs",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "New York Knicks",
@@ -123,7 +123,7 @@
           "value": 2
         }
       ],
-      "total": 11
+      "total": 12
     },
     {
       "name": "RT",
