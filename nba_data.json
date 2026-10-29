@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 28, 2026 at 07:09 PM",
+  "updated": "Oct 28, 2026 at 07:23 PM",
   "people": [
     {
       "name": "Nuney",
@@ -74,7 +74,7 @@
         {
           "team": "New Orleans Pelicans",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Cleveland Cavaliers",
@@ -92,7 +92,7 @@
           "value": 3
         }
       ],
-      "total": 15
+      "total": 16
     },
     {
       "name": "Bogo",
@@ -162,7 +162,7 @@
         {
           "team": "Denver Nuggets",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Los Angeles Lakers",
@@ -185,7 +185,7 @@
           "value": 0
         }
       ],
-      "total": 9
+      "total": 10
     }
   ]
 }
