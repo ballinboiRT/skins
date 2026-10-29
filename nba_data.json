@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 28, 2026 at 10:23 AM",
+  "updated": "Oct 28, 2026 at 06:29 PM",
   "people": [
     {
       "name": "Nuney",
@@ -79,7 +79,7 @@
         {
           "team": "Cleveland Cavaliers",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Dallas Mavericks",
@@ -89,10 +89,10 @@
         {
           "team": "Washington Wizards",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         }
       ],
-      "total": 13
+      "total": 15
     },
     {
       "name": "Bogo",
@@ -115,7 +115,7 @@
         {
           "team": "Miami Heat",
           "stat": "Wins",
-          "value": 0
+          "value": 1
         },
         {
           "team": "Atlanta Hawks",
@@ -123,7 +123,7 @@
           "value": 2
         }
       ],
-      "total": 8
+      "total": 9
     },
     {
       "name": "RT",
