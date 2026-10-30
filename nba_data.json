@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 29, 2026 at 01:00 PM",
+  "updated": "Oct 29, 2026 at 09:10 PM",
   "people": [
     {
       "name": "Nuney",
@@ -7,7 +7,7 @@
         {
           "team": "Sacramento Kings",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Boston Celtics",
@@ -30,7 +30,7 @@
           "value": 3
         }
       ],
-      "total": 16
+      "total": 17
     },
     {
       "name": "Mickey",
@@ -120,10 +120,10 @@
         {
           "team": "Atlanta Hawks",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         }
       ],
-      "total": 12
+      "total": 13
     },
     {
       "name": "RT",
