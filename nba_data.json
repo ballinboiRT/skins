@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 29, 2026 at 09:10 PM",
+  "updated": "Oct 29, 2026 at 09:55 PM",
   "people": [
     {
       "name": "Nuney",
@@ -182,10 +182,10 @@
         {
           "team": "Portland Trail Blazers",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         }
       ],
-      "total": 11
+      "total": 12
     }
   ]
 }
