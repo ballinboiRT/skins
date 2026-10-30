@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 27, 2026 at 07:57 AM",
+  "updated": "Oct 29, 2026 at 09:10 PM",
   "people": [
     {
       "name": "Mickey",
@@ -100,10 +100,10 @@
         {
           "team": "Green Bay Packers",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         }
       ],
-      "total": 13
+      "total": 14
     },
     {
       "name": "Bogo",
@@ -147,7 +147,7 @@
         {
           "team": "Carolina Panthers",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Indianapolis Colts",
@@ -155,7 +155,7 @@
           "value": 2
         }
       ],
-      "total": 13
+      "total": 14
     },
     {
       "name": "Ryan N",
