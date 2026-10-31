@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 30, 2026 at 07:15 PM",
+  "updated": "Oct 30, 2026 at 09:40 PM",
   "people": [
     {
       "name": "Nuney",
@@ -115,7 +115,7 @@
         {
           "team": "Miami Heat",
           "stat": "Wins",
-          "value": 1
+          "value": 2
         },
         {
           "team": "Atlanta Hawks",
@@ -123,7 +123,7 @@
           "value": 3
         }
       ],
-      "total": 14
+      "total": 15
     },
     {
       "name": "RT",
@@ -136,7 +136,7 @@
         {
           "team": "LA Clippers",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Houston Rockets",
@@ -151,10 +151,10 @@
         {
           "team": "Phoenix Suns",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         }
       ],
-      "total": 17
+      "total": 19
     },
     {
       "name": "John",
@@ -162,7 +162,7 @@
         {
           "team": "Denver Nuggets",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Los Angeles Lakers",
@@ -172,7 +172,7 @@
         {
           "team": "Minnesota Timberwolves",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Indiana Pacers",
@@ -185,7 +185,7 @@
           "value": 1
         }
       ],
-      "total": 12
+      "total": 14
     }
   ]
 }
