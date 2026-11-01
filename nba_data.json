@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 31, 2026 at 03:03 PM",
+  "updated": "Oct 31, 2026 at 06:10 PM",
   "people": [
     {
       "name": "Nuney",
@@ -17,12 +17,12 @@
         {
           "team": "Philadelphia 76ers",
           "stat": "Wins",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Charlotte Hornets",
           "stat": "Losses",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Golden State Warriors",
@@ -30,7 +30,7 @@
           "value": 3
         }
       ],
-      "total": 20
+      "total": 22
     },
     {
       "name": "Mickey",
