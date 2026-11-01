@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 31, 2026 at 06:10 PM",
+  "updated": "Oct 31, 2026 at 07:25 PM",
   "people": [
     {
       "name": "Nuney",
@@ -79,7 +79,7 @@
         {
           "team": "Cleveland Cavaliers",
           "stat": "Wins",
-          "value": 3
+          "value": 4
         },
         {
           "team": "Dallas Mavericks",
@@ -92,7 +92,7 @@
           "value": 3
         }
       ],
-      "total": 16
+      "total": 17
     },
     {
       "name": "Bogo",
@@ -131,7 +131,7 @@
         {
           "team": "Milwaukee Bucks",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "LA Clippers",
@@ -154,7 +154,7 @@
           "value": 3
         }
       ],
-      "total": 19
+      "total": 20
     },
     {
       "name": "John",
