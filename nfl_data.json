@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 30, 2026 at 09:51 AM",
+  "updated": "Nov 01, 2026 at 01:45 PM",
   "people": [
     {
       "name": "Mickey",
@@ -22,10 +22,10 @@
         {
           "team": "Pittsburgh Steelers",
           "stat": "Wins",
-          "value": 5
+          "value": 6
         }
       ],
-      "total": 19
+      "total": 20
     },
     {
       "name": "John",
@@ -48,10 +48,10 @@
         {
           "team": "Tampa Bay Buccaneers",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         }
       ],
-      "total": 10
+      "total": 11
     },
     {
       "name": "Paul I",
@@ -74,10 +74,10 @@
         {
           "team": "Jacksonville Jaguars",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         }
       ],
-      "total": 15
+      "total": 16
     },
     {
       "name": "Jared",
@@ -85,7 +85,7 @@
         {
           "team": "Cleveland Browns",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Houston Texans",
@@ -103,7 +103,7 @@
           "value": 5
         }
       ],
-      "total": 14
+      "total": 15
     },
     {
       "name": "Bogo",
@@ -121,7 +121,7 @@
         {
           "team": "Cincinnati Bengals",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Chicago Bears",
@@ -129,7 +129,7 @@
           "value": 5
         }
       ],
-      "total": 17
+      "total": 18
     },
     {
       "name": "Daniel",
@@ -142,7 +142,7 @@
         {
           "team": "Detroit Lions",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Carolina Panthers",
@@ -155,7 +155,7 @@
           "value": 2
         }
       ],
-      "total": 14
+      "total": 15
     },
     {
       "name": "Ryan N",
@@ -163,12 +163,12 @@
         {
           "team": "New York Jets",
           "stat": "Losses",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Atlanta Falcons",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Washington Commanders",
@@ -181,7 +181,7 @@
           "value": 5
         }
       ],
-      "total": 18
+      "total": 20
     },
     {
       "name": "Ryan T",
@@ -189,12 +189,12 @@
         {
           "team": "Buffalo Bills",
           "stat": "Wins",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Tennessee Titans",
           "stat": "Losses",
-          "value": 6
+          "value": 7
         },
         {
           "team": "New York Giants",
@@ -204,10 +204,10 @@
         {
           "team": "Minnesota Vikings",
           "stat": "Losses",
-          "value": 0
+          "value": 1
         }
       ],
-      "total": 13
+      "total": 16
     }
   ]
 }
