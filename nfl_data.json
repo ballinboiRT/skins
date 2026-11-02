@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 01, 2026 at 04:35 PM",
+  "updated": "Nov 01, 2026 at 04:40 PM",
   "people": [
     {
       "name": "Mickey",
@@ -95,7 +95,7 @@
         {
           "team": "Denver Broncos",
           "stat": "Wins",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Green Bay Packers",
@@ -103,7 +103,7 @@
           "value": 5
         }
       ],
-      "total": 15
+      "total": 16
     },
     {
       "name": "Bogo",
