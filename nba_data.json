@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 01, 2026 at 03:05 PM",
+  "updated": "Nov 01, 2026 at 07:57 PM",
   "people": [
     {
       "name": "Nuney",
@@ -136,7 +136,7 @@
         {
           "team": "LA Clippers",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Houston Rockets",
@@ -154,7 +154,7 @@
           "value": 3
         }
       ],
-      "total": 21
+      "total": 22
     },
     {
       "name": "John",
