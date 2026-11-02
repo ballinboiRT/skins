@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 01, 2026 at 03:55 PM",
+  "updated": "Nov 01, 2026 at 04:35 PM",
   "people": [
     {
       "name": "Mickey",
@@ -17,7 +17,7 @@
         {
           "team": "New England Patriots",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Pittsburgh Steelers",
@@ -25,7 +25,7 @@
           "value": 6
         }
       ],
-      "total": 20
+      "total": 21
     },
     {
       "name": "John",
@@ -33,7 +33,7 @@
         {
           "team": "Miami Dolphins",
           "stat": "Losses",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Los Angeles Chargers",
@@ -51,7 +51,7 @@
           "value": 3
         }
       ],
-      "total": 11
+      "total": 12
     },
     {
       "name": "Paul I",
