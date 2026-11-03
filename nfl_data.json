@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 01, 2026 at 09:18 PM",
+  "updated": "Nov 03, 2026 at 09:35 AM",
   "people": [
     {
       "name": "Mickey",
@@ -126,10 +126,10 @@
         {
           "team": "Chicago Bears",
           "stat": "Wins",
-          "value": 5
+          "value": 6
         }
       ],
-      "total": 18
+      "total": 19
     },
     {
       "name": "Daniel",
