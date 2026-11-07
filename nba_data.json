@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 06, 2026 at 06:45 PM",
+  "updated": "Nov 06, 2026 at 08:13 PM",
   "people": [
     {
       "name": "Nuney",
@@ -48,12 +48,12 @@
         {
           "team": "Memphis Grizzlies",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Utah Jazz",
           "stat": "Losses",
-          "value": 7
+          "value": 8
         },
         {
           "team": "Orlando Magic",
@@ -61,7 +61,7 @@
           "value": 2
         }
       ],
-      "total": 25
+      "total": 27
     },
     {
       "name": "Jared",
@@ -69,17 +69,17 @@
         {
           "team": "Oklahoma City Thunder",
           "stat": "Wins",
-          "value": 6
+          "value": 7
         },
         {
           "team": "New Orleans Pelicans",
           "stat": "Losses",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Cleveland Cavaliers",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Dallas Mavericks",
@@ -92,7 +92,7 @@
           "value": 5
         }
       ],
-      "total": 23
+      "total": 26
     },
     {
       "name": "Bogo",
@@ -131,7 +131,7 @@
         {
           "team": "Milwaukee Bucks",
           "stat": "Losses",
-          "value": 7
+          "value": 8
         },
         {
           "team": "LA Clippers",
@@ -146,7 +146,7 @@
         {
           "team": "Toronto Raptors",
           "stat": "Wins",
-          "value": 4
+          "value": 5
         },
         {
           "team": "Phoenix Suns",
@@ -154,7 +154,7 @@
           "value": 5
         }
       ],
-      "total": 30
+      "total": 32
     },
     {
       "name": "John",
@@ -172,7 +172,7 @@
         {
           "team": "Minnesota Timberwolves",
           "stat": "Wins",
-          "value": 6
+          "value": 7
         },
         {
           "team": "Indiana Pacers",
@@ -185,7 +185,7 @@
           "value": 1
         }
       ],
-      "total": 21
+      "total": 22
     }
   ]
 }
