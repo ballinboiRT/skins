@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 06, 2026 at 10:05 PM",
+  "updated": "Nov 06, 2026 at 10:10 PM",
   "people": [
     {
       "name": "Nuney",
@@ -167,7 +167,7 @@
         {
           "team": "Los Angeles Lakers",
           "stat": "Wins",
-          "value": 7
+          "value": 8
         },
         {
           "team": "Minnesota Timberwolves",
@@ -182,10 +182,10 @@
         {
           "team": "Portland Trail Blazers",
           "stat": "Losses",
-          "value": 1
+          "value": 2
         }
       ],
-      "total": 22
+      "total": 24
     }
   ]
 }
