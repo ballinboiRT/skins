@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 07, 2026 at 09:40 PM",
+  "updated": "Nov 08, 2026 at 03:15 PM",
   "people": [
     {
       "name": "Nuney",
@@ -17,7 +17,7 @@
         {
           "team": "Philadelphia 76ers",
           "stat": "Wins",
-          "value": 8
+          "value": 9
         },
         {
           "team": "Charlotte Hornets",
@@ -30,7 +30,7 @@
           "value": 3
         }
       ],
-      "total": 33
+      "total": 34
     },
     {
       "name": "Mickey",
@@ -43,7 +43,7 @@
         {
           "team": "Chicago Bulls",
           "stat": "Losses",
-          "value": 7
+          "value": 8
         },
         {
           "team": "Memphis Grizzlies",
@@ -61,7 +61,7 @@
           "value": 2
         }
       ],
-      "total": 27
+      "total": 28
     },
     {
       "name": "Jared",
