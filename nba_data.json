@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 07, 2026 at 09:07 PM",
+  "updated": "Nov 07, 2026 at 09:40 PM",
   "people": [
     {
       "name": "Nuney",
@@ -100,7 +100,7 @@
         {
           "team": "San Antonio Spurs",
           "stat": "Wins",
-          "value": 7
+          "value": 8
         },
         {
           "team": "New York Knicks",
@@ -123,7 +123,7 @@
           "value": 7
         }
       ],
-      "total": 28
+      "total": 29
     },
     {
       "name": "RT",
@@ -182,10 +182,10 @@
         {
           "team": "Portland Trail Blazers",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         }
       ],
-      "total": 25
+      "total": 26
     }
   ]
 }
