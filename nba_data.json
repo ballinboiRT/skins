@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 08, 2026 at 08:47 PM",
+  "updated": "Nov 10, 2026 at 06:00 AM",
   "people": [
     {
       "name": "Nuney",
@@ -74,7 +74,7 @@
         {
           "team": "New Orleans Pelicans",
           "stat": "Losses",
-          "value": 6
+          "value": 7
         },
         {
           "team": "Cleveland Cavaliers",
@@ -89,10 +89,10 @@
         {
           "team": "Washington Wizards",
           "stat": "Losses",
-          "value": 6
+          "value": 7
         }
       ],
-      "total": 29
+      "total": 31
     },
     {
       "name": "Bogo",
@@ -100,7 +100,7 @@
         {
           "team": "San Antonio Spurs",
           "stat": "Wins",
-          "value": 8
+          "value": 9
         },
         {
           "team": "New York Knicks",
@@ -110,7 +110,7 @@
         {
           "team": "Detroit Pistons",
           "stat": "Wins",
-          "value": 6
+          "value": 7
         },
         {
           "team": "Miami Heat",
@@ -123,7 +123,7 @@
           "value": 7
         }
       ],
-      "total": 30
+      "total": 32
     },
     {
       "name": "RT",
@@ -141,7 +141,7 @@
         {
           "team": "Houston Rockets",
           "stat": "Wins",
-          "value": 7
+          "value": 8
         },
         {
           "team": "Toronto Raptors",
@@ -151,10 +151,10 @@
         {
           "team": "Phoenix Suns",
           "stat": "Losses",
-          "value": 5
+          "value": 6
         }
       ],
-      "total": 33
+      "total": 35
     },
     {
       "name": "John",
@@ -167,7 +167,7 @@
         {
           "team": "Los Angeles Lakers",
           "stat": "Wins",
-          "value": 9
+          "value": 10
         },
         {
           "team": "Minnesota Timberwolves",
@@ -185,7 +185,7 @@
           "value": 3
         }
       ],
-      "total": 28
+      "total": 29
     }
   ]
 }
