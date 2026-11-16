@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 15, 2026 at 04:10 PM",
+  "updated": "Nov 15, 2026 at 09:30 PM",
   "people": [
     {
       "name": "Nuney",
@@ -7,12 +7,12 @@
         {
           "team": "Sacramento Kings",
           "stat": "Losses",
-          "value": 11
+          "value": 12
         },
         {
           "team": "Boston Celtics",
           "stat": "Wins",
-          "value": 10
+          "value": 11
         },
         {
           "team": "Philadelphia 76ers",
@@ -30,7 +30,7 @@
           "value": 5
         }
       ],
-      "total": 46
+      "total": 48
     },
     {
       "name": "Mickey",
@@ -53,7 +53,7 @@
         {
           "team": "Utah Jazz",
           "stat": "Losses",
-          "value": 12
+          "value": 13
         },
         {
           "team": "Orlando Magic",
@@ -61,7 +61,7 @@
           "value": 5
         }
       ],
-      "total": 39
+      "total": 40
     },
     {
       "name": "Jared",
@@ -69,7 +69,7 @@
         {
           "team": "Oklahoma City Thunder",
           "stat": "Wins",
-          "value": 8
+          "value": 9
         },
         {
           "team": "New Orleans Pelicans",
@@ -84,15 +84,15 @@
         {
           "team": "Dallas Mavericks",
           "stat": "Losses",
-          "value": 6
+          "value": 7
         },
         {
           "team": "Washington Wizards",
           "stat": "Losses",
-          "value": 9
+          "value": 10
         }
       ],
-      "total": 40
+      "total": 43
     },
     {
       "name": "Bogo",
@@ -100,12 +100,12 @@
         {
           "team": "San Antonio Spurs",
           "stat": "Wins",
-          "value": 11
+          "value": 12
         },
         {
           "team": "New York Knicks",
           "stat": "Wins",
-          "value": 6
+          "value": 7
         },
         {
           "team": "Detroit Pistons",
@@ -120,10 +120,10 @@
         {
           "team": "Atlanta Hawks",
           "stat": "Wins",
-          "value": 7
+          "value": 8
         }
       ],
-      "total": 39
+      "total": 42
     },
     {
       "name": "RT",
@@ -131,7 +131,7 @@
         {
           "team": "Milwaukee Bucks",
           "stat": "Losses",
-          "value": 12
+          "value": 13
         },
         {
           "team": "LA Clippers",
@@ -141,7 +141,7 @@
         {
           "team": "Houston Rockets",
           "stat": "Wins",
-          "value": 10
+          "value": 11
         },
         {
           "team": "Toronto Raptors",
@@ -154,7 +154,7 @@
           "value": 7
         }
       ],
-      "total": 42
+      "total": 44
     },
     {
       "name": "John",
