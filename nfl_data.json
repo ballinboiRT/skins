@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 11, 2026 at 03:04 PM",
+  "updated": "Nov 15, 2026 at 04:10 PM",
   "people": [
     {
       "name": "Mickey",
@@ -7,12 +7,12 @@
         {
           "team": "Arizona Cardinals",
           "stat": "Losses",
-          "value": 6
+          "value": 7
         },
         {
           "team": "New Orleans Saints",
           "stat": "Losses",
-          "value": 5
+          "value": 6
         },
         {
           "team": "New England Patriots",
@@ -25,7 +25,7 @@
           "value": 6
         }
       ],
-      "total": 22
+      "total": 24
     },
     {
       "name": "John",
@@ -33,7 +33,7 @@
         {
           "team": "Miami Dolphins",
           "stat": "Losses",
-          "value": 7
+          "value": 8
         },
         {
           "team": "Los Angeles Chargers",
@@ -51,7 +51,7 @@
           "value": 3
         }
       ],
-      "total": 14
+      "total": 15
     },
     {
       "name": "Paul I",
@@ -59,7 +59,7 @@
         {
           "team": "Los Angeles Rams",
           "stat": "Wins",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Philadelphia Eagles",
@@ -74,10 +74,10 @@
         {
           "team": "Jacksonville Jaguars",
           "stat": "Wins",
-          "value": 6
+          "value": 7
         }
       ],
-      "total": 20
+      "total": 22
     },
     {
       "name": "Jared",
@@ -116,7 +116,7 @@
         {
           "team": "Seattle Seahawks",
           "stat": "Wins",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Cincinnati Bengals",
@@ -129,7 +129,7 @@
           "value": 7
         }
       ],
-      "total": 22
+      "total": 23
     },
     {
       "name": "Daniel",
@@ -137,12 +137,12 @@
         {
           "team": "Las Vegas Raiders",
           "stat": "Losses",
-          "value": 5
+          "value": 6
         },
         {
           "team": "Detroit Lions",
           "stat": "Wins",
-          "value": 6
+          "value": 7
         },
         {
           "team": "Carolina Panthers",
@@ -152,10 +152,10 @@
         {
           "team": "Indianapolis Colts",
           "stat": "Wins",
-          "value": 2
+          "value": 3
         }
       ],
-      "total": 18
+      "total": 21
     },
     {
       "name": "Ryan N",
@@ -163,12 +163,12 @@
         {
           "team": "New York Jets",
           "stat": "Losses",
-          "value": 7
+          "value": 8
         },
         {
           "team": "Atlanta Falcons",
           "stat": "Losses",
-          "value": 6
+          "value": 7
         },
         {
           "team": "Washington Commanders",
@@ -178,10 +178,10 @@
         {
           "team": "Kansas City Chiefs",
           "stat": "Wins",
-          "value": 6
+          "value": 7
         }
       ],
-      "total": 24
+      "total": 27
     },
     {
       "name": "Ryan T",
@@ -189,17 +189,17 @@
         {
           "team": "Buffalo Bills",
           "stat": "Wins",
-          "value": 7
+          "value": 8
         },
         {
           "team": "Tennessee Titans",
           "stat": "Losses",
-          "value": 7
+          "value": 8
         },
         {
           "team": "New York Giants",
           "stat": "Losses",
-          "value": 2
+          "value": 3
         },
         {
           "team": "Minnesota Vikings",
@@ -207,7 +207,7 @@
           "value": 2
         }
       ],
-      "total": 18
+      "total": 21
     }
   ]
 }
